@@ -1,0 +1,61 @@
+title: 'Dream Dictionary of the 21st Century: Artificial Intelligence and Dream Interpretation. How AI reveals the meaning of dreams and changes the concept of ''Dream Journal'''
+source_id: 4b8aa061-d622-4817-b711-98b8495b89f3
+source_status: todo
+source_type: article
+topic: Technology and AI
+topic_slug: technology-and-ai
+active: true
+free: false
+premium: false
+exclusive: false
+publication_date: '2023-09-11T03:25:06.805Z'
+visible_since: null
+visible_until: null
+created_at: '2023-09-11T03:25:06.805Z'
+updated_at: '2025-02-27T18:59:09.949Z'
+deleted_at: '1969-12-31T23:00:00.000Z'
+available_translations:
+- en
+- ru
+source_languages_migrated:
+- language: en
+  content_row_id: 255
+  created_at: '2024-11-04T09:57:55.764Z'
+  updated_at: '2025-02-27T18:59:10.741Z'
+- language: ru
+  content_row_id: 180
+  created_at: '2024-11-03T11:30:47.416Z'
+  updated_at: '2025-02-27T18:59:10.756Z'
+source_title:
+  en: 'Dream Dictionary of the 21st Century: Artificial Intelligence and Dream Interpretation. How AI reveals the meaning of dreams and changes the concept of ''Dream Journal'''
+  ru: 'Сонник XXI века: искусственный интеллект и толкование снов. Как ИИ раскрывает значение снов и меняет понятие “Дневник сновидений”'
+source_description: {}
+source_slug:
+  en: dream-dictionary-of-the-21st-century-artificial-intelligence-and-dream-interpretation-how-ai-reveals-the-meaning-of-dreams-and-changes-the-concept-of-dream-journal
+  ru: sonnik-21-veka-iskusstvennyi-intellekt
+images:
+- slug: g-ma4hebgx-zwlp-io6gc-1280x720
+  metadata: images/g-ma4hebgx-zwlp-io6gc-1280x720/metadata.yaml
+  source_field: imageWeb
+  source: /documents/4b8aa061-d622-4817-b711-98b8495b89f3/g_mA4HEbGX_zWLp_iO6gc_1280X720.webp
+- slug: g-ma4hebgx-zwlp-io6gc-1280x720
+  metadata: images/g-ma4hebgx-zwlp-io6gc-1280x720/metadata.yaml
+  source_field: imageMob
+  source: /documents/4b8aa061-d622-4817-b711-98b8495b89f3/g_mA4HEbGX_zWLp_iO6gc_1280X720.webp
+traceability:
+  source_files:
+  - documents_202606241032.json
+  - documents_content_202606241032.json
+  draft_rows_present: 0
+  non_migrated_languages:
+  - 3
+  - 4
+  - 5
+  - 7
+  - 8
+  - 14
+  - 37
+  - 61
+  - 75
+  - 129
+  - 130

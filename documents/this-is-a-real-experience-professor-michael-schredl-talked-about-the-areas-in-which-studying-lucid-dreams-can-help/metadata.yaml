@@ -1,0 +1,63 @@
+title: This is a real experience. Professor Michael Schredl talked about the areas in which studying lucid dreams can help.
+source_id: 24450571-4924-4125-8221-178f2d25bffb
+source_status: todo
+source_type: interview
+topic: Lucid Dreaming
+topic_slug: lucid-dreaming
+active: true
+free: false
+premium: false
+exclusive: false
+publication_date: '2023-03-10T07:25:06.805Z'
+visible_since: null
+visible_until: null
+created_at: '2023-03-10T07:25:06.805Z'
+updated_at: '2025-03-12T16:49:55.699Z'
+deleted_at: '1969-12-31T23:00:00.000Z'
+available_translations:
+- en
+- ru
+source_languages_migrated:
+- language: en
+  content_row_id: 4
+  created_at: '2024-08-31T05:01:25.749Z'
+  updated_at: '2025-02-27T18:59:10.485Z'
+- language: ru
+  content_row_id: 3
+  created_at: '2024-08-31T05:01:25.747Z'
+  updated_at: '2025-02-27T18:59:10.484Z'
+source_title:
+  en: This is a real experience. Professor Michael Schredl talked about the areas in which studying lucid dreams can help.
+  ru: «Это реальный опыт». Профессор Михаэль Шредль рассказал, в каких областях может помочь изучение осознанных сновидений.
+source_description:
+  en: Professor Michael Schredl shares real-world applications of lucid dream research, emphasizing its role in understanding consciousness and improving mental health.
+  ru: Профессор Михаэль Шредль делится практическими применениями исследования осознанных сновидений, подчеркивая их роль в понимании сознания и улучшении психического здоровья.
+source_slug:
+  en: this-is-a-real-experience-professor-michael-schredl-talked-about-the-areas-in-which-studying-lucid-dreams-can-help
+  ru: eto-realnyi-opyt-professor-mikhail-shredl
+images:
+- slug: rzdwgginmpwe1cpq-4ihh-1280x720
+  metadata: images/rzdwgginmpwe1cpq-4ihh-1280x720/metadata.yaml
+  source_field: imageWeb
+  source: /documents/24450571-4924-4125-8221-178f2d25bffb/rZDwggInmPWE1cPq-4ihh_1280X720.webp
+- slug: rzdwgginmpwe1cpq-4ihh-1280x720
+  metadata: images/rzdwgginmpwe1cpq-4ihh-1280x720/metadata.yaml
+  source_field: imageMob
+  source: /documents/24450571-4924-4125-8221-178f2d25bffb/rZDwggInmPWE1cPq-4ihh_1280X720.webp
+traceability:
+  source_files:
+  - documents_202606241032.json
+  - documents_content_202606241032.json
+  draft_rows_present: 0
+  non_migrated_languages:
+  - 3
+  - 4
+  - 5
+  - 7
+  - 8
+  - 14
+  - 37
+  - 61
+  - 75
+  - 129
+  - 130

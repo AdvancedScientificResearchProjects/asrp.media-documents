@@ -1,0 +1,60 @@
+title: 'Stress Kills: How to Bring the Brain Back to Normal Life'
+source_id: e4c2eee6-34ac-49b4-ac13-d728517c7465
+source_status: todo
+source_type: interview
+topic: Technology and AI
+topic_slug: technology-and-ai
+active: true
+free: true
+premium: false
+exclusive: false
+publication_date: '2024-12-26T07:25:06.805Z'
+visible_since: null
+visible_until: null
+created_at: '2024-12-16T07:25:06.805Z'
+updated_at: '2025-07-12T08:56:16.514Z'
+deleted_at: '1969-12-31T23:00:00.000Z'
+available_translations:
+- en
+- ru
+source_languages_migrated:
+- language: en
+  content_row_id: 411
+  created_at: '2025-09-18T18:13:01.955Z'
+  updated_at: '2025-09-18T18:13:01.955Z'
+- language: ru
+  content_row_id: 263
+  created_at: '2024-12-20T17:06:10.113Z'
+  updated_at: '2025-02-27T18:59:10.846Z'
+source_title:
+  en: 'Stress Kills: How to Bring the Brain Back to Normal Life'
+  ru: 'Стресс убивает: Как вернуть мозг к нормальной жизни'
+source_description:
+  en: In an era of chronic fatigue and anxiety, stress becomes humanity's greatest enemy, destroying health, careers, and relationships. Irina Grivtsova, a teacher-psychologist and the author of a unique brain recovery method using binaural rhythms, shares her scientific discoveries and success stories. Learn how scientific approaches help overcome the consequences of stress, avoid drug dependence, and restore quality of life.
+  ru: В эпоху хронической усталости и тревог стресс превращается в главного врага человечества, разрушая здоровье, карьеру и отношения. Ирина Гривцова, педагог-психолог и автор уникальной методики восстановления мозга с помощью бинауральных ритмов, делится своими научными открытиями и успешными кейсами. Узнайте, как научные подходы помогают победить последствия стресса, избежать лекарственной зависимости и вернуть качество жизни.
+source_slug:
+  en: stress-kills-how-to-bring-the-brain-back-to-normal-life
+  ru: stress-ubivaet-kak-vernut-mozg-k-normalnoy-zhizni
+images:
+- slug: vkp7b-xpg7mvain05-3sk-1280x720
+  metadata: images/vkp7b-xpg7mvain05-3sk-1280x720/metadata.yaml
+  source_field: imageWeb
+  source: /documents/e4c2eee6-34ac-49b4-ac13-d728517c7465/VkP7B_xPg7mvAIN05_3SK_1280X720.webp
+- slug: vkp7b-xpg7mvain05-3sk-1280x720
+  metadata: images/vkp7b-xpg7mvain05-3sk-1280x720/metadata.yaml
+  source_field: imageMob
+  source: /documents/e4c2eee6-34ac-49b4-ac13-d728517c7465/VkP7B_xPg7mvAIN05_3SK_1280X720.webp
+traceability:
+  source_files:
+  - documents_202606241032.json
+  - documents_content_202606241032.json
+  draft_rows_present: 0
+  non_migrated_languages:
+  - 3
+  - 4
+  - 5
+  - 7
+  - 8
+  - 37
+  - 129
+  - 130

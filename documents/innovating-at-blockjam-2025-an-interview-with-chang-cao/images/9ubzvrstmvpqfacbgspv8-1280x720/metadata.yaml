@@ -1,0 +1,21 @@
+source_url_or_path: /documents/badcf7c2-657c-4f11-843b-64a0ad86acac/imageWeb/9uBzVrsTmVPqfAcBGSPV8_1280X720.webp
+local_filename: 9uBzVrsTmVPqfAcBGSPV8_1280X720.webp
+binary_in_export: false
+status: metadata-only; source export did not include image binary
+alt_text: 'Innovating at BlockJam 2025: An Interview with Chang Cao'
+caption: 'Innovating at BlockJam 2025: An Interview with Chang Cao'
+checksum: null
+occurrence:
+  source_field: imageMob
+  document_id: badcf7c2-657c-4f11-843b-64a0ad86acac
+  document_slug: innovating-at-blockjam-2025-an-interview-with-chang-cao
+source_image_metadata:
+  path: /documents/badcf7c2-657c-4f11-843b-64a0ad86acac/imageWeb/9uBzVrsTmVPqfAcBGSPV8_1280X720.webp
+  size: 58650
+  width: 1280
+  height: 720
+  fileName: 9uBzVrsTmVPqfAcBGSPV8_1280X720.webp
+  mimetype: image/webp
+  createdAt: '2025-09-10T11:29:44.742Z'
+  isOriginal: false
+  originalFileName: Интервью 1.cover.webp

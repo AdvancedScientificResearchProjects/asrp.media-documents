@@ -1,0 +1,63 @@
+title: Blockchain, NFTs, and Science. The growing interest in the topic of lucid dreaming and the formation of the "Banchenko Market."
+source_id: 67c844a7-1e99-4bb3-b285-be581f6990d3
+source_status: todo
+source_type: research
+topic: Markets and Web3
+topic_slug: markets-and-web3
+active: true
+free: false
+premium: false
+exclusive: false
+publication_date: '2023-10-04T03:25:06.805Z'
+visible_since: null
+visible_until: null
+created_at: '2023-10-04T03:25:06.805Z'
+updated_at: '2025-02-27T18:59:09.915Z'
+deleted_at: '1969-12-31T23:00:00.000Z'
+available_translations:
+- en
+- ru
+source_languages_migrated:
+- language: en
+  content_row_id: 48
+  created_at: '2024-08-31T05:01:25.858Z'
+  updated_at: '2025-02-27T18:59:10.515Z'
+- language: ru
+  content_row_id: 49
+  created_at: '2024-08-31T05:01:25.859Z'
+  updated_at: '2025-02-27T18:59:10.516Z'
+source_title:
+  en: Blockchain, NFTs, and Science. The growing interest in the topic of lucid dreaming and the formation of the "Banchenko Market."
+  ru: Блокчейн, NFT и наука. Рост интереса к теме осознанных сновидений и формирование "Рынка-Банченко".
+source_description:
+  en: As the digital world evolves, the intersection of Blockchain, NFTs, and lucid dreaming opens up new possibilities. Discover how these technologies are shaping the 'Banchenko Market' and revolutionizing scientific exploration.
+  ru: По мере развития цифрового мира открываются новые возможности на пересечении Blockchain, NFT и осознанных сновидений. Узнайте, как эти технологии формируют 'Рынок-Банченко' и революционизируют научные исследования.
+source_slug:
+  en: blockchain-nfts-and-science-the-growing-interest-in-the-topic-of-lucid-dreaming-and-the-formation-of-the-banchenko-market
+  ru: blockchain-nft-i-nauka
+images:
+- slug: s-xddalzjfbdsizcm7dkp-1280x720
+  metadata: images/s-xddalzjfbdsizcm7dkp-1280x720/metadata.yaml
+  source_field: imageWeb
+  source: /documents/67c844a7-1e99-4bb3-b285-be581f6990d3/S-xdDalzJFbdSiZcM7dkp_1280X720.webp
+- slug: s-xddalzjfbdsizcm7dkp-1280x720
+  metadata: images/s-xddalzjfbdsizcm7dkp-1280x720/metadata.yaml
+  source_field: imageMob
+  source: /documents/67c844a7-1e99-4bb3-b285-be581f6990d3/S-xdDalzJFbdSiZcM7dkp_1280X720.webp
+traceability:
+  source_files:
+  - documents_202606241032.json
+  - documents_content_202606241032.json
+  draft_rows_present: 0
+  non_migrated_languages:
+  - 3
+  - 4
+  - 5
+  - 7
+  - 8
+  - 14
+  - 37
+  - 61
+  - 75
+  - 129
+  - 130

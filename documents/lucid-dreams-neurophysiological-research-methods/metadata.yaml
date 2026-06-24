@@ -1,0 +1,63 @@
+title: 'Lucid Dreams: Neurophysiological Research Methods.'
+source_id: 34755d6f-af35-4c8c-8bef-61494f846710
+source_status: todo
+source_type: article
+topic: Research Methods
+topic_slug: research-methods
+active: true
+free: false
+premium: false
+exclusive: false
+publication_date: '2023-09-14T03:25:06.805Z'
+visible_since: null
+visible_until: null
+created_at: '2023-09-14T03:25:06.805Z'
+updated_at: '2025-02-27T18:59:09.956Z'
+deleted_at: '1969-12-31T23:00:00.000Z'
+available_translations:
+- en
+- ru
+source_languages_migrated:
+- language: en
+  content_row_id: 56
+  created_at: '2024-08-31T05:01:25.876Z'
+  updated_at: '2025-02-27T18:59:10.621Z'
+- language: ru
+  content_row_id: 29
+  created_at: '2024-08-31T05:01:25.818Z'
+  updated_at: '2025-02-27T18:59:10.551Z'
+source_title:
+  en: 'Lucid Dreams: Neurophysiological Research Methods.'
+  ru: 'Осознанные сновидения: нейрофизиологические методы исследования.'
+source_description:
+  en: Explore the latest techniques in neurophysiology to understand and induce lucid dreams, revealing new insights into consciousness and mental health.
+  ru: Изучите новейшие методы нейрофизиологии для понимания и индукции осознанных сновидений, открывая новые перспективы в области сознания и психического здоровья.
+source_slug:
+  en: lucid-dreams-neurophysiological-research-methods
+  ru: neyrofiziologiya
+images:
+- slug: ynnjf-k05f8achqmcnamp-1280x720
+  metadata: images/ynnjf-k05f8achqmcnamp-1280x720/metadata.yaml
+  source_field: imageWeb
+  source: /documents/34755d6f-af35-4c8c-8bef-61494f846710/yNnJf-K05f8AchqMcNAMp_1280X720.webp
+- slug: ynnjf-k05f8achqmcnamp-1280x720
+  metadata: images/ynnjf-k05f8achqmcnamp-1280x720/metadata.yaml
+  source_field: imageMob
+  source: /documents/34755d6f-af35-4c8c-8bef-61494f846710/yNnJf-K05f8AchqMcNAMp_1280X720.webp
+traceability:
+  source_files:
+  - documents_202606241032.json
+  - documents_content_202606241032.json
+  draft_rows_present: 0
+  non_migrated_languages:
+  - 3
+  - 4
+  - 5
+  - 7
+  - 8
+  - 14
+  - 37
+  - 61
+  - 75
+  - 129
+  - 130

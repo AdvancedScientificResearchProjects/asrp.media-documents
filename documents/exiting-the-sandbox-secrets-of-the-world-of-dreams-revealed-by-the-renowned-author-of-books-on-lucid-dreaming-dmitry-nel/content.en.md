@@ -1,0 +1,31 @@
+### ASRP.media
+
+> Dmitry, there is very little information available online about your biography. You lead a rather private lifestyle, although among Russian-speaking lucid dreamers, you are well-known not only for your books in the rare genre of DreamRPG but also for your courses on lucid dreaming. In your profile, you mention that studying the world of dreams is one of your interests, and according to information from Litres, you have been passionate about it for over 20 years. In your opinion, what is the world of dreams and the "sandbox"? And how can one get out of their "sandbox"?
+
+### Anna Budanova:
+
+> Greetings. "The Sandbox" is the inner, personal world of a person. It is where we often find ourselves when we become aware inside a dream. The Sandbox is a dream that has become lucid but retains all the visual characteristics of a normal dream. Typically, in such a dream, we have a very high level of awareness and have access to any actions. We can fly, walk through walls, create different characters and objects. In the Sandbox, we are all-powerful and akin to a demiurge. The Sandbox can be multi-level, and different techniques, such as "Cascade Portals" or repeated diving, show that we can wander through it for a long time. Most dreamers never leave the boundaries of their Sandbox. First and foremost, this depends on a certain protective system of our consciousness, which tries to prevent us from becoming aware, and secondly, on our own disbelief. Many materialistic dreamers do not believe that in a lucid dream (LD) there is anything other than their own subconscious, so their journey within themselves will be as long as they are not ready to change their own paradigm of perception. However, for "esoteric" dreamers, it is different - they believe that LDs are useless cartoons and that they need to leave their body and enter a magical Astral. However, they still cannot come to a single definition of this wonderful place. Astral, Limbo, the world of dreams - these are dimensions that lie beyond the boundaries of our Sandbox.Sometimes we can become aware of them right away, and sometimes we see dreams about them. Such dreams are usually called projections. The world of dreams has long fascinated the minds of dreamers. Many try to sketch and describe these locations. That's how the Lovecraft Map came about. And dream hackers (DH) introduced the concept of 'dream mapping', with which they sketch all their dreams and try to find connections between locations. 'Esoteric' believers think that in the dream worlds, one can encounter real teachers, obtain artifacts, restore luminosity, heal diseases, or even communicate with gods. There is also a separate category of people who believe that besides the 'sandbox' and the 'dream world', one can venture into the real world and wander through it as a projection. This is called astral reconnaissance, an invention attributed to the military services of different countries. In general, it is a very fertile ground for imagination and the application of lucid dreaming.
+
+## Dream Hackers Map.
+
+### ASRP.media
+
+> Dmitry, in your books and broadcasts, you use some terms that were used by the "Dream Hackers" community, including the term "Archetypal Locations" - these are locations that are the same for all dreamers in the dream world. Please tell me, what "Archetypal" locations do you know and have you personally visited? Which ones are the most mysterious?
+
+### Anna Budanova:
+
+> The HS card is no longer the main one for many dreamers. It is very outdated, as the HS themselves stopped dealing with it a long time ago. Now there are new maps on the internet, but not all locations are marked on them. Moreover, such a map simply does not exist and cannot be created. Locations on the map often change their position or disappear altogether, while new ones appear. I have studied this world of dreams for a long time and have visited most of the locations mentioned as HS, as well as other practices. Bridge, Arena, Eternal City, Cataclysm Zone, Amusement Park, Dream Station, Iron Road, Elf Grove, Hotel, Witch's Forest, Teachers' House. And this is far from all. I have tried and visited the upper worlds and the lower ones. The most mysterious location for me is still the Sunset City, which is not even mentioned on the maps. Nevertheless, I have been there only once and was enchanted by it.
+
+## Double position and deep levels of sleep.
+
+### ASRP.media
+
+> In the books of Carlos Castaneda, there is a description of the technique called 'double position', which is a way to control one's dreams. In your opinion, what are 'deep levels of sleep' and what methods do you use to enter them?
+
+### Anna Budanova:
+
+> The double position is an interesting technique that is not suitable for everyone. I tried to modify it several times, tried to do everything scientifically, but I couldn't achieve stable execution. That is, if I realized it for the first time, let's say, and immediately went to sleep in the same place, in the same position, then I can wake up in a different dream, and it will be lucid, but brighter and more controllable. That is, I just changed the level of dreaming. Good. But I can wake up in a regular dream. And I can wake up in complete darkness - the space between dreams. And I can wake up in reality. This technique is well suited for dreamers who actually leave their bodies. They remember the position in which they exited. They can see their body lying in bed and simply lie back into it. When you become aware inside a dream, you don't know at all in what position you are sleeping and where your body is. Yes, you can look for it, and even find it, but it takes precious dream time. So I use any transition points to deepen - mirrors, very rarely doors, but usually I create portals myself. By the way, not all dreamers can make them, although it is a necessary technique for anyone who wants to explore the world of dreams. I recommend filling your perception board with portals and believing that they exist. Watch fantasy movies, play games.You can't create a portal yourself, create a makeshift solution - an item that will create portals for you. A bright example is the portal gun from the game "Portal".
+
+Author of the material: Tatiana Burilova.
+
+Translation and editing: Mykhailo Kapustin

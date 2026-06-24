@@ -1,0 +1,21 @@
+source_url_or_path: /documents/5f698486-7463-450f-997b-1e0bc3b508bc/WmQxOHtsQ9b6223nzihNr_1280X720.webp
+local_filename: WmQxOHtsQ9b6223nzihNr_1280X720.webp
+binary_in_export: false
+status: metadata-only; source export did not include image binary
+alt_text: 'Dreams in Ancient Greek Philosophy: Aristotle''s Perspective'
+caption: 'Dreams in Ancient Greek Philosophy: Aristotle''s Perspective'
+checksum: null
+occurrence:
+  source_field: imageMob
+  document_id: 5f698486-7463-450f-997b-1e0bc3b508bc
+  document_slug: dreams-in-ancient-greek-philosophy-aristotles-perspective
+source_image_metadata:
+  path: /documents/5f698486-7463-450f-997b-1e0bc3b508bc/WmQxOHtsQ9b6223nzihNr_1280X720.webp
+  size: 41316
+  width: 1280
+  height: 720
+  fileName: WmQxOHtsQ9b6223nzihNr_1280X720.webp
+  mimetype: image/webp
+  createdAt: '2025-04-10T18:26:17.368Z'
+  isOriginal: true
+  originalFileName: 5f698486-7463-450f-997b-1e0bc3b508bc.webp

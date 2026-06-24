@@ -1,0 +1,63 @@
+title: In the future, dreams will be prescribed as medicine. Chinese scientists on the impact of lucid dreams on human health.
+source_id: b55fbc5b-394a-4136-aea4-544188cb7aa8
+source_status: todo
+source_type: interview
+topic: Health and Sleep
+topic_slug: health-and-sleep
+active: true
+free: false
+premium: false
+exclusive: false
+publication_date: '2023-06-01T03:25:06.805Z'
+visible_since: null
+visible_until: null
+created_at: '2023-06-01T03:25:06.805Z'
+updated_at: '2025-02-27T18:59:09.954Z'
+deleted_at: '1969-12-31T23:00:00.000Z'
+available_translations:
+- en
+- ru
+source_languages_migrated:
+- language: en
+  content_row_id: 24
+  created_at: '2024-08-31T05:01:25.805Z'
+  updated_at: '2025-02-27T18:59:10.507Z'
+- language: ru
+  content_row_id: 25
+  created_at: '2024-08-31T05:01:25.807Z'
+  updated_at: '2025-02-27T18:59:10.508Z'
+source_title:
+  en: In the future, dreams will be prescribed as medicine. Chinese scientists on the impact of lucid dreams on human health.
+  ru: В будущем сновидения будут прописывать как лекарство. Китайские учёные о влиянии осознанных снов на здоровье человека.
+source_description:
+  en: Imagine a future where dreams are not just figments of the mind but prescribed as treatments. Chinese scientists explore how lucid dreams could revolutionize human health.
+  ru: Представьте будущее, где сны не просто образы сознания, а выписываются как лекарства. Китайские ученые изучают, как осознанные сны могут революционизировать здоровье человека.
+source_slug:
+  en: in-the-future-dreams-will-be-prescribed-as-medicine-chinese-scientists-on-the-impact-of-lucid-dreams-on-human-health
+  ru: snovideniya-lekarstvo-kitayskie-uchenye
+images:
+- slug: 1ls1eo0zns3aafar8d3ts-1280x720
+  metadata: images/1ls1eo0zns3aafar8d3ts-1280x720/metadata.yaml
+  source_field: imageWeb
+  source: /documents/b55fbc5b-394a-4136-aea4-544188cb7aa8/1Ls1EO0ZNS3aAfaR8D3ts_1280X720.webp
+- slug: 1ls1eo0zns3aafar8d3ts-1280x720
+  metadata: images/1ls1eo0zns3aafar8d3ts-1280x720/metadata.yaml
+  source_field: imageMob
+  source: /documents/b55fbc5b-394a-4136-aea4-544188cb7aa8/1Ls1EO0ZNS3aAfaR8D3ts_1280X720.webp
+traceability:
+  source_files:
+  - documents_202606241032.json
+  - documents_content_202606241032.json
+  draft_rows_present: 0
+  non_migrated_languages:
+  - 3
+  - 4
+  - 5
+  - 7
+  - 8
+  - 14
+  - 37
+  - 61
+  - 75
+  - 129
+  - 130

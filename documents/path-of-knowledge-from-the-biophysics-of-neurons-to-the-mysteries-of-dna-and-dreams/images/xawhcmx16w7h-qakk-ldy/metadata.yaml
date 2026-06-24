@@ -1,0 +1,21 @@
+source_url_or_path: /documents/a4020c35-3eb8-4285-ab6a-71bb4aa3803f/XAWhCMX16W7h_QAKk-Ldy.webp
+local_filename: XAWhCMX16W7h_QAKk-Ldy.webp
+binary_in_export: false
+status: metadata-only; source export did not include image binary
+alt_text: 'The Path of Knowledge: from the Biophysics of Neurons to the Mysteries of DNA and Dreams'
+caption: 'The Path of Knowledge: from the Biophysics of Neurons to the Mysteries of DNA and Dreams'
+checksum: null
+occurrence:
+  source_field: imageMob
+  document_id: a4020c35-3eb8-4285-ab6a-71bb4aa3803f
+  document_slug: path-of-knowledge-from-the-biophysics-of-neurons-to-the-mysteries-of-dna-and-dreams
+source_image_metadata:
+  path: /documents/a4020c35-3eb8-4285-ab6a-71bb4aa3803f/XAWhCMX16W7h_QAKk-Ldy.webp
+  size: 68760
+  width: 1280
+  height: 720
+  fileName: XAWhCMX16W7h_QAKk-Ldy.webp
+  mimetype: image/webp
+  createdAt: '2025-08-05T22:04:19.544Z'
+  isOriginal: false
+  originalFileName: XAWhCMX16W7h_QAKk-Ldy.webp

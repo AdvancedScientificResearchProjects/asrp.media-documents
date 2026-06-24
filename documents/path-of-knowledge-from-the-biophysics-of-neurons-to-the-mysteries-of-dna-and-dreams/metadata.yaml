@@ -1,0 +1,53 @@
+title: 'The Path of Knowledge: from the Biophysics of Neurons to the Mysteries of DNA and Dreams'
+source_id: a4020c35-3eb8-4285-ab6a-71bb4aa3803f
+source_status: todo
+source_type: interview
+topic: Lucid Dreaming
+topic_slug: lucid-dreaming
+active: true
+free: false
+premium: false
+exclusive: false
+publication_date: '2025-07-09T20:04:19.360Z'
+visible_since: null
+visible_until: null
+created_at: '2025-08-05T20:04:19.360Z'
+updated_at: '2025-08-30T16:29:43.026Z'
+deleted_at: '1969-12-31T23:00:00.000Z'
+available_translations:
+- en
+- ru
+source_languages_migrated:
+- language: en
+  content_row_id: 402
+  created_at: '2025-08-26T18:01:26.026Z'
+  updated_at: '2025-08-26T18:01:26.026Z'
+- language: ru
+  content_row_id: 393
+  created_at: '2025-08-09T18:35:39.636Z'
+  updated_at: '2025-08-09T18:35:39.636Z'
+source_title:
+  en: 'The Path of Knowledge: from the Biophysics of Neurons to the Mysteries of DNA and Dreams'
+  ru: 'Путь познания: от биофизики нейронов к тайнам ДНК и сновидений'
+source_description:
+  en: 'Scientist Ivan Saveliev talks about his unusual path in science: from studying neurons to researching the ''dark matter'' of DNA and the mysteries of dreams.'
+  ru: 'Ученый Иван Савельев рассказывает о своем необычном пути в науке: от изучения нейронов до исследований "темной материи" ДНК и загадок сновидений.'
+source_slug:
+  en: path-of-knowledge-from-the-biophysics-of-neurons-to-the-mysteries-of-dna-and-dreams
+  ru: put-poznaniya-ot-biofiziki-neyronov-k-taynam-dnk-i-snovideniy
+images:
+- slug: xawhcmx16w7h-qakk-ldy
+  metadata: images/xawhcmx16w7h-qakk-ldy/metadata.yaml
+  source_field: imageWeb
+  source: /documents/a4020c35-3eb8-4285-ab6a-71bb4aa3803f/XAWhCMX16W7h_QAKk-Ldy.webp
+- slug: xawhcmx16w7h-qakk-ldy
+  metadata: images/xawhcmx16w7h-qakk-ldy/metadata.yaml
+  source_field: imageMob
+  source: /documents/a4020c35-3eb8-4285-ab6a-71bb4aa3803f/XAWhCMX16W7h_QAKk-Ldy.webp
+traceability:
+  source_files:
+  - documents_202606241032.json
+  - documents_content_202606241032.json
+  draft_rows_present: 10
+  non_migrated_languages:
+  - 5

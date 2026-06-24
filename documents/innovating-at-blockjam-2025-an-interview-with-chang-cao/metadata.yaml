@@ -1,0 +1,61 @@
+title: 'Innovating at BlockJam 2025: An Interview with Chang Cao'
+source_id: badcf7c2-657c-4f11-843b-64a0ad86acac
+source_status: published
+source_type: interview
+topic: BlockJam 2025
+topic_slug: blockjam-2025
+active: true
+free: false
+premium: false
+exclusive: false
+publication_date: '2025-09-10T11:53:48.258Z'
+visible_since: null
+visible_until: null
+created_at: '2025-09-10T09:14:39.866Z'
+updated_at: '2025-09-10T09:29:45.018Z'
+deleted_at: '1969-12-31T23:00:00.000Z'
+available_translations:
+- en
+- ru
+source_languages_migrated:
+- language: en
+  content_row_id: 406
+  created_at: '2025-09-10T14:46:23.852Z'
+  updated_at: '2025-09-10T14:46:23.852Z'
+- language: ru
+  content_row_id: 431
+  created_at: '2025-09-21T10:57:29.343Z'
+  updated_at: '2025-09-21T10:57:29.343Z'
+source_title:
+  en: 'Innovating at BlockJam 2025: An Interview with Chang Cao'
+  ru: 'Инновации на BlockJam 2025: интервью с Чанг Цао'
+source_description:
+  en: In this exclusive interview from BlockJam 2025, co-founder Chang Cao shares his perspective on the future of Theta technologies, the role of ASRP's dream data, and how hackathons can drive innovation at the intersection of AI, Web3, and collective intelligence. We discuss the vision behind these projects, the challenges of building meaningful applications, and what opportunities lie ahead for developers, researchers, and creators working with decentralized platforms.
+  ru: В этом эксклюзивном интервью с BlockJam 2025 сооснователь Чанг Цао делится своим взглядом на будущее технологий Theta, роль данных о сновидениях ASRP и то, как хакатоны могут стимулировать инновации на пересечении ИИ, Web3 и коллективного интеллекта. Мы обсуждаем видение этих проектов, сложности создания значимых приложений и возможности, открывающиеся для разработчиков, исследователей и создателей, работающих с децентрализованными платформами.
+source_slug:
+  en: innovating-at-blockjam-2025-an-interview-with-chang-cao
+  ru: innovacii-na-blockjam-2025-intervyu-s-chang-cao
+images:
+- slug: 9ubzvrstmvpqfacbgspv8-1280x720
+  metadata: images/9ubzvrstmvpqfacbgspv8-1280x720/metadata.yaml
+  source_field: imageWeb
+  source: /documents/badcf7c2-657c-4f11-843b-64a0ad86acac/imageWeb/9uBzVrsTmVPqfAcBGSPV8_1280X720.webp
+- slug: 9ubzvrstmvpqfacbgspv8-1920x1080
+  metadata: images/9ubzvrstmvpqfacbgspv8-1920x1080/metadata.yaml
+  source_field: imageWeb
+  source: /documents/badcf7c2-657c-4f11-843b-64a0ad86acac/imageWeb/9uBzVrsTmVPqfAcBGSPV8_1920X1080.webp
+- slug: 9ubzvrstmvpqfacbgspv8-1280x720
+  metadata: images/9ubzvrstmvpqfacbgspv8-1280x720/metadata.yaml
+  source_field: imageMob
+  source: /documents/badcf7c2-657c-4f11-843b-64a0ad86acac/imageWeb/9uBzVrsTmVPqfAcBGSPV8_1280X720.webp
+- slug: 9ubzvrstmvpqfacbgspv8-1920x1080
+  metadata: images/9ubzvrstmvpqfacbgspv8-1920x1080/metadata.yaml
+  source_field: imageMob
+  source: /documents/badcf7c2-657c-4f11-843b-64a0ad86acac/imageWeb/9uBzVrsTmVPqfAcBGSPV8_1920X1080.webp
+traceability:
+  source_files:
+  - documents_202606241032.json
+  - documents_content_202606241032.json
+  draft_rows_present: 2
+  non_migrated_languages:
+  - 5

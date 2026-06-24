@@ -1,0 +1,63 @@
+title: 'Stephen LaBerge: Leading Researcher in the World of Lucid Dreams'
+source_id: 083c526e-35b5-41b2-8f78-2bc170bd55ae
+source_status: todo
+source_type: article
+topic: History and Philosophy
+topic_slug: history-and-philosophy
+active: true
+free: false
+premium: false
+exclusive: false
+publication_date: '2023-09-27T03:25:06.805Z'
+visible_since: null
+visible_until: null
+created_at: '2023-09-27T03:25:06.805Z'
+updated_at: '2025-02-27T18:59:09.842Z'
+deleted_at: '1969-12-31T23:00:00.000Z'
+available_translations:
+- en
+- ru
+source_languages_migrated:
+- language: en
+  content_row_id: 44
+  created_at: '2024-08-31T05:01:25.850Z'
+  updated_at: '2025-02-27T18:59:10.542Z'
+- language: ru
+  content_row_id: 45
+  created_at: '2024-08-31T05:01:25.852Z'
+  updated_at: '2025-02-27T18:59:10.543Z'
+source_title:
+  en: 'Stephen LaBerge: Leading Researcher in the World of Lucid Dreams'
+  ru: 'Стивен Лаберж: ведущий исследователь мира осознанных сновидений'
+source_description:
+  en: Stephen LaBerge has revolutionized the study of lucid dreams, developing techniques that allow people to explore and control their dream worlds.
+  ru: Стивен Лаберж революционизировал изучение осознанных сновидений, разработав техники, позволяющие людям исследовать и контролировать свои сны.
+source_slug:
+  en: stephen-laberge-leading-researcher-in-the-world-of-lucid-dreams
+  ru: stephen-laberge-issledovatel
+images:
+- slug: emjwkaq9xlyz6bj5jkdbo-1280x720
+  metadata: images/emjwkaq9xlyz6bj5jkdbo-1280x720/metadata.yaml
+  source_field: imageWeb
+  source: /documents/083c526e-35b5-41b2-8f78-2bc170bd55ae/EMjWKaQ9XlyZ6bj5jKdbo_1280X720.webp
+- slug: emjwkaq9xlyz6bj5jkdbo-1280x720
+  metadata: images/emjwkaq9xlyz6bj5jkdbo-1280x720/metadata.yaml
+  source_field: imageMob
+  source: /documents/083c526e-35b5-41b2-8f78-2bc170bd55ae/EMjWKaQ9XlyZ6bj5jKdbo_1280X720.webp
+traceability:
+  source_files:
+  - documents_202606241032.json
+  - documents_content_202606241032.json
+  draft_rows_present: 0
+  non_migrated_languages:
+  - 3
+  - 4
+  - 5
+  - 7
+  - 8
+  - 14
+  - 37
+  - 61
+  - 75
+  - 129
+  - 130

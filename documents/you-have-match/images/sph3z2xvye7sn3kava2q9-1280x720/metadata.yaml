@@ -1,0 +1,21 @@
+source_url_or_path: /documents/c8fd396b-47ba-455a-8e71-aacd522499d2/sPH3Z2xvye7sn3KAVa2q9_1280X720.webp
+local_filename: sPH3Z2xvye7sn3KAVa2q9_1280X720.webp
+binary_in_export: false
+status: metadata-only; source export did not include image binary
+alt_text: You have - match!
+caption: You have - match!
+checksum: null
+occurrence:
+  source_field: imageMob
+  document_id: c8fd396b-47ba-455a-8e71-aacd522499d2
+  document_slug: you-have-match
+source_image_metadata:
+  path: /documents/c8fd396b-47ba-455a-8e71-aacd522499d2/sPH3Z2xvye7sn3KAVa2q9_1280X720.webp
+  size: 42254
+  width: 1280
+  height: 720
+  fileName: sPH3Z2xvye7sn3KAVa2q9_1280X720.webp
+  mimetype: image/webp
+  createdAt: '2025-03-03T21:24:14.751Z'
+  isOriginal: true
+  originalFileName: c8fd396b-47ba-455a-8e71-aacd522499d2.webp

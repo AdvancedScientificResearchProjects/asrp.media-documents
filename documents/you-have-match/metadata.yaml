@@ -1,0 +1,63 @@
+title: You have - match!
+source_id: c8fd396b-47ba-455a-8e71-aacd522499d2
+source_status: todo
+source_type: interview
+topic: Lucid Dreaming
+topic_slug: lucid-dreaming
+active: true
+free: true
+premium: false
+exclusive: false
+publication_date: '2024-10-06T03:25:06.805Z'
+visible_since: null
+visible_until: null
+created_at: '2024-09-29T10:02:24.635Z'
+updated_at: '2025-02-27T18:59:09.921Z'
+deleted_at: '1969-12-31T23:00:00.000Z'
+available_translations:
+- en
+- ru
+source_languages_migrated:
+- language: en
+  content_row_id: 410
+  created_at: '2025-09-18T17:29:45.719Z'
+  updated_at: '2025-09-18T17:29:45.719Z'
+- language: ru
+  content_row_id: 64
+  created_at: '2024-08-31T05:01:25.740Z'
+  updated_at: '2025-02-27T18:59:10.617Z'
+source_title:
+  en: You have - match!
+  ru: “У Вас - match!” Будущее HR и синхронизация состояний
+source_description:
+  en: Research in HR is changing thanks to conscious dreams, neurointerfaces, and new approaches. How technologies transform the labor market and teams.
+  ru: Исследования в HR меняются благодаря осознанным снам, нейроинтерфейсам и новым подходам. Как технологии трансформируют рынок труда и команды.
+source_slug:
+  en: you-have---match
+  ru: u-vas-match
+images:
+- slug: sph3z2xvye7sn3kava2q9-1280x720
+  metadata: images/sph3z2xvye7sn3kava2q9-1280x720/metadata.yaml
+  source_field: imageWeb
+  source: /documents/c8fd396b-47ba-455a-8e71-aacd522499d2/sPH3Z2xvye7sn3KAVa2q9_1280X720.webp
+- slug: sph3z2xvye7sn3kava2q9-1280x720
+  metadata: images/sph3z2xvye7sn3kava2q9-1280x720/metadata.yaml
+  source_field: imageMob
+  source: /documents/c8fd396b-47ba-455a-8e71-aacd522499d2/sPH3Z2xvye7sn3KAVa2q9_1280X720.webp
+traceability:
+  source_files:
+  - documents_202606241032.json
+  - documents_content_202606241032.json
+  draft_rows_present: 0
+  non_migrated_languages:
+  - 3
+  - 4
+  - 5
+  - 7
+  - 8
+  - 14
+  - 37
+  - 61
+  - 75
+  - 129
+  - 130

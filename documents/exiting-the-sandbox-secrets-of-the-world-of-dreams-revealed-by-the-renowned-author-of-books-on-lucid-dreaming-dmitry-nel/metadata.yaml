@@ -1,0 +1,63 @@
+title: Exiting the "sandbox." Secrets of the world of dreams revealed by the renowned author of books on lucid dreaming, Dmitry Nelin.
+source_id: 1e862773-0020-4f91-9099-93e0e9154bb3
+source_status: todo
+source_type: interview
+topic: Lucid Dreaming
+topic_slug: lucid-dreaming
+active: true
+free: false
+premium: false
+exclusive: false
+publication_date: '2023-05-18T03:25:06.805Z'
+visible_since: null
+visible_until: null
+created_at: '2023-05-18T03:25:06.805Z'
+updated_at: '2025-02-27T18:59:09.861Z'
+deleted_at: '1969-12-31T23:00:00.000Z'
+available_translations:
+- en
+- ru
+source_languages_migrated:
+- language: en
+  content_row_id: 16
+  created_at: '2024-08-31T05:01:25.780Z'
+  updated_at: '2025-02-27T18:59:10.495Z'
+- language: ru
+  content_row_id: 17
+  created_at: '2024-08-31T05:01:25.785Z'
+  updated_at: '2025-02-27T18:59:10.496Z'
+source_title:
+  en: Exiting the "sandbox." Secrets of the world of dreams revealed by the renowned author of books on lucid dreaming, Dmitry Nelin.
+  ru: Выйти из "песочницы". Секреты мира снов, которые открывает известный автор книг по осознанным сновидениям Дмитрий Нелин.
+source_description:
+  en: Dmitry Nelin takes you beyond the ordinary, unveiling the secrets of escaping the 'sandbox' of lucid dreams and exploring new dimensions of consciousness.
+  ru: Дмитрий Нелин выводит вас за пределы обыденного, раскрывая секреты выхода из 'песочницы' осознанных сновидений и исследования новых измерений сознания.
+source_slug:
+  en: exiting-the-sandbox-secrets-of-the-world-of-dreams-revealed-by-the-renowned-author-of-books-on-lucid-dreaming-dmitry-nelin
+  ru: vyiiti-iz-pesochnitsy-nelin
+images:
+- slug: r4u7bgfvdoq9chfzwfz3b-1280x720
+  metadata: images/r4u7bgfvdoq9chfzwfz3b-1280x720/metadata.yaml
+  source_field: imageWeb
+  source: /documents/1e862773-0020-4f91-9099-93e0e9154bb3/R4u7BgfVDoQ9ChfzWFZ3B_1280X720.webp
+- slug: r4u7bgfvdoq9chfzwfz3b-1280x720
+  metadata: images/r4u7bgfvdoq9chfzwfz3b-1280x720/metadata.yaml
+  source_field: imageMob
+  source: /documents/1e862773-0020-4f91-9099-93e0e9154bb3/R4u7BgfVDoQ9ChfzWFZ3B_1280X720.webp
+traceability:
+  source_files:
+  - documents_202606241032.json
+  - documents_content_202606241032.json
+  draft_rows_present: 0
+  non_migrated_languages:
+  - 3
+  - 4
+  - 5
+  - 7
+  - 8
+  - 14
+  - 37
+  - 61
+  - 75
+  - 129
+  - 130

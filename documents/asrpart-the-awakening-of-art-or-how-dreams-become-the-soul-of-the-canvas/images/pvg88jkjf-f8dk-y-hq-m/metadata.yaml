@@ -1,0 +1,11 @@
+source_url_or_path: ../../../../../storage/documents/5f246a98-8329-4172-b5cf-fe268aa207c6/pVg88jKJF-F8Dk_Y_HQ-M.webp
+local_filename: pVg88jKJF-F8Dk_Y_HQ-M.webp
+binary_in_export: false
+status: metadata-only; inline source image referenced by content but binary was not present in export
+alt_text: Bearer of Soul
+caption: Bearer of Soul
+checksum: null
+occurrence:
+  source_field: content.md
+  markdown_file: content.ru.md
+  document_slug: asrpart-the-awakening-of-art-or-how-dreams-become-the-soul-of-the-canvas

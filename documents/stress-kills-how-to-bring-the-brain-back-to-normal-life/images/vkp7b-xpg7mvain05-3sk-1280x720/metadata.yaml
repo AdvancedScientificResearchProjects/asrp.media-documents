@@ -1,0 +1,21 @@
+source_url_or_path: /documents/e4c2eee6-34ac-49b4-ac13-d728517c7465/VkP7B_xPg7mvAIN05_3SK_1280X720.webp
+local_filename: VkP7B_xPg7mvAIN05_3SK_1280X720.webp
+binary_in_export: false
+status: metadata-only; source export did not include image binary
+alt_text: 'Stress Kills: How to Bring the Brain Back to Normal Life'
+caption: 'Stress Kills: How to Bring the Brain Back to Normal Life'
+checksum: null
+occurrence:
+  source_field: imageMob
+  document_id: e4c2eee6-34ac-49b4-ac13-d728517c7465
+  document_slug: stress-kills-how-to-bring-the-brain-back-to-normal-life
+source_image_metadata:
+  path: /documents/e4c2eee6-34ac-49b4-ac13-d728517c7465/VkP7B_xPg7mvAIN05_3SK_1280X720.webp
+  size: 103768
+  width: 1280
+  height: 720
+  fileName: VkP7B_xPg7mvAIN05_3SK_1280X720.webp
+  mimetype: image/webp
+  createdAt: '2025-03-03T21:24:54.553Z'
+  isOriginal: true
+  originalFileName: e4c2eee6-34ac-49b4-ac13-d728517c7465.webp

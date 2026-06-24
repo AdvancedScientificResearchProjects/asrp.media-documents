@@ -1,0 +1,21 @@
+source_url_or_path: /documents/fb8f09dd-4e83-47f5-8a99-0709620e2ee4/qNL6VdVSv-MpnUBkcY9bJ_1280X720.webp
+local_filename: qNL6VdVSv-MpnUBkcY9bJ_1280X720.webp
+binary_in_export: false
+status: metadata-only; source export did not include image binary
+alt_text: '"It''s as if you become a superhuman with super vision and a sense of the world." An unusual dream during scientific research.'
+caption: '"It''s as if you become a superhuman with super vision and a sense of the world." An unusual dream during scientific research.'
+checksum: null
+occurrence:
+  source_field: imageMob
+  document_id: fb8f09dd-4e83-47f5-8a99-0709620e2ee4
+  document_slug: its-as-if-you-become-a-superhuman-with-super-vision-and-a-sense-of-the-world-an-unusual-dream-during-scientific-research
+source_image_metadata:
+  path: /documents/fb8f09dd-4e83-47f5-8a99-0709620e2ee4/qNL6VdVSv-MpnUBkcY9bJ_1280X720.webp
+  size: 138592
+  width: 1280
+  height: 720
+  fileName: qNL6VdVSv-MpnUBkcY9bJ_1280X720.webp
+  mimetype: image/webp
+  createdAt: '2025-03-30T12:27:13.651Z'
+  isOriginal: true
+  originalFileName: fb8f09dd-4e83-47f5-8a99-0709620e2ee4.webp

@@ -1,0 +1,53 @@
+title: 'Hyperbolic Fields and the Pyramids of Giza: How Ancient Civilizations Influenced Time and Space'
+source_id: d2e8c6af-3fd6-47a4-bd7b-07a75161b070
+source_status: published
+source_type: interview
+topic: UAP and Cosmology
+topic_slug: uap-and-cosmology
+active: true
+free: false
+premium: false
+exclusive: false
+publication_date: '2025-03-12T06:25:06.805Z'
+visible_since: null
+visible_until: null
+created_at: '2025-03-10T19:35:59.295Z'
+updated_at: '2025-07-15T14:11:49.253Z'
+deleted_at: '1969-12-31T23:00:00.000Z'
+available_translations:
+- en
+- ru
+source_languages_migrated:
+- language: en
+  content_row_id: 407
+  created_at: '2025-09-18T17:03:46.289Z'
+  updated_at: '2025-09-18T17:03:46.289Z'
+- language: ru
+  content_row_id: 392
+  created_at: '2025-08-06T12:39:21.428Z'
+  updated_at: '2025-08-06T12:39:21.428Z'
+source_title:
+  en: 'Hyperbolic Fields and the Pyramids of Giza: How Ancient Civilizations Influenced Time and Space'
+  ru: 'Гиперболические поля и пирамиды Гизы: как древние цивилизации влияли на время и пространство'
+source_description:
+  en: Could the Pyramids of Giza hold the key to understanding advanced methods of space-time manipulation? Dive into the mysterious connection between hyperbolic fields—an esoteric geometric concept—and the architectural precision of ancient wonders. Explore theories suggesting that these civilizations harnessed cosmic energies, aligned with celestial patterns, and encoded mathematical secrets that challenge modern science. From sacred geometry to space-time distortions, uncover how the past may hold revolutionary ideas about the very structure of reality.
+  ru: Могут ли пирамиды Гизы содержать ключ к пониманию передовых методов манипулирования пространством-временем? Погрузитесь в загадочную связь между гиперболическими полями - эзотерической геометрической концепцией - и архитектурной точностью древних чудес. Исследуйте теории, предполагающие, что эти цивилизации использовали космические энергии, соответствовали небесным закономерностям и закодировали математические секреты, которые бросают вызов современной науке. От сакральной геометрии до искажений пространства-времени - раскройте, как прошлое может содержать революционные идеи о самой структуре реальности
+source_slug:
+  en: hyperbolic-fields-and-pyramids-of-giza-how-ancient-civilizations-influenced-time-and-space
+  ru: giperbolicheskie-polya-i-piramidy-gizy-kak-drevnie-civilizacii-vliyali-na-vremya-i-prostranstvo
+images:
+- slug: pc9xrb136w6snqy5dk4sv-1280x720
+  metadata: images/pc9xrb136w6snqy5dk4sv-1280x720/metadata.yaml
+  source_field: imageWeb
+  source: /documents/d2e8c6af-3fd6-47a4-bd7b-07a75161b070/imageWeb/pC9xRb136w6sNqy5Dk4Sv_1280X720.webp
+- slug: pc9xrb136w6snqy5dk4sv-1280x720
+  metadata: images/pc9xrb136w6snqy5dk4sv-1280x720/metadata.yaml
+  source_field: imageWeb
+  source: /documents/d2e8c6af-3fd6-47a4-bd7b-07a75161b070/imageWeb/pC9xRb136w6sNqy5Dk4Sv_1280X720.jpg
+traceability:
+  source_files:
+  - documents_202606241032.json
+  - documents_content_202606241032.json
+  draft_rows_present: 20
+  non_migrated_languages:
+  - 5

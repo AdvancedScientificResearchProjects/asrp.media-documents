@@ -1,0 +1,21 @@
+source_url_or_path: /documents/97feee1c-dc9d-4d49-8c90-6cc8527d3016/imageWeb/LwTxfjW8Eu1AS6KAqZWja_1920X1080.jpg
+local_filename: LwTxfjW8Eu1AS6KAqZWja_1920X1080.jpg
+binary_in_export: false
+status: metadata-only; source export did not include image binary
+alt_text: 'Innovating at BlockJam 2025: An Interview with Siamon Piazolo'
+caption: 'Innovating at BlockJam 2025: An Interview with Siamon Piazolo'
+checksum: null
+occurrence:
+  source_field: imageMob
+  document_id: 97feee1c-dc9d-4d49-8c90-6cc8527d3016
+  document_slug: innovating-at-blockjam-2025-an-interview-with-siamon-piazolo
+source_image_metadata:
+  path: /documents/97feee1c-dc9d-4d49-8c90-6cc8527d3016/imageWeb/LwTxfjW8Eu1AS6KAqZWja_1920X1080.jpg
+  size: 82211
+  width: 1920
+  height: 1080
+  fileName: LwTxfjW8Eu1AS6KAqZWja_1920X1080.jpg
+  mimetype: image/jpeg
+  createdAt: '2025-09-24T13:30:30.640Z'
+  isOriginal: true
+  originalFileName: cover.jpg

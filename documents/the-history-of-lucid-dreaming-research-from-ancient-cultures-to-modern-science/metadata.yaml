@@ -1,0 +1,63 @@
+title: 'The History of Lucid Dreaming Research: From Ancient Cultures to Modern Science.'
+source_id: e89b24a8-a71b-4a1b-97a1-a0e6219c176c
+source_status: todo
+source_type: article
+topic: History and Philosophy
+topic_slug: history-and-philosophy
+active: true
+free: false
+premium: false
+exclusive: false
+publication_date: '2023-09-16T03:25:06.805Z'
+visible_since: null
+visible_until: null
+created_at: '2023-09-16T03:25:06.805Z'
+updated_at: '2025-02-27T18:59:09.895Z'
+deleted_at: '1969-12-31T23:00:00.000Z'
+available_translations:
+- en
+- ru
+source_languages_migrated:
+- language: en
+  content_row_id: 59
+  created_at: '2024-08-31T05:01:25.881Z'
+  updated_at: '2025-02-27T18:59:10.567Z'
+- language: ru
+  content_row_id: 33
+  created_at: '2024-08-31T05:01:25.829Z'
+  updated_at: '2025-02-27T18:59:10.513Z'
+source_title:
+  en: 'The History of Lucid Dreaming Research: From Ancient Cultures to Modern Science.'
+  ru: 'История исследований осознанных сновидений: от древних культур до современной науки.'
+source_description:
+  en: Explore the fascinating journey of lucid dreaming research, tracing its evolution from ancient cultural beliefs to the breakthroughs of modern science.
+  ru: Исследуйте увлекательный путь исследований осознанных сновидений, прослеживая их эволюцию от древних культурных верований до прорывов современной науки.
+source_slug:
+  en: the-history-of-lucid-dreaming-research-from-ancient-cultures-to-modern-science
+  ru: istoriya-issledovaniy-osoznannykh-snovideniy-ot-drevnikh-kultur-do-sovremennoy-nauki
+images:
+- slug: zrdgjot7k0yptk9clcsnn-1280x720
+  metadata: images/zrdgjot7k0yptk9clcsnn-1280x720/metadata.yaml
+  source_field: imageWeb
+  source: /documents/e89b24a8-a71b-4a1b-97a1-a0e6219c176c/zRDgJOT7k0yPTK9clCsNN_1280X720.webp
+- slug: zrdgjot7k0yptk9clcsnn-1280x720
+  metadata: images/zrdgjot7k0yptk9clcsnn-1280x720/metadata.yaml
+  source_field: imageMob
+  source: /documents/e89b24a8-a71b-4a1b-97a1-a0e6219c176c/zRDgJOT7k0yPTK9clCsNN_1280X720.webp
+traceability:
+  source_files:
+  - documents_202606241032.json
+  - documents_content_202606241032.json
+  draft_rows_present: 0
+  non_migrated_languages:
+  - 3
+  - 4
+  - 5
+  - 7
+  - 8
+  - 14
+  - 37
+  - 61
+  - 75
+  - 129
+  - 130

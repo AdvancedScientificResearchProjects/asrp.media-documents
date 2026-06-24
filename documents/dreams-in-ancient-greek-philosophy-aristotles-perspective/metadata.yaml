@@ -1,0 +1,63 @@
+title: 'Dreams in Ancient Greek Philosophy: Aristotle''s Perspective'
+source_id: 5f698486-7463-450f-997b-1e0bc3b508bc
+source_status: todo
+source_type: article
+topic: History and Philosophy
+topic_slug: history-and-philosophy
+active: true
+free: false
+premium: false
+exclusive: false
+publication_date: '2023-09-17T03:25:06.805Z'
+visible_since: null
+visible_until: null
+created_at: '2023-09-17T03:25:06.805Z'
+updated_at: '2025-02-27T18:59:09.907Z'
+deleted_at: '1969-12-31T23:00:00.000Z'
+available_translations:
+- en
+- ru
+source_languages_migrated:
+- language: en
+  content_row_id: 36
+  created_at: '2024-08-31T05:01:25.835Z'
+  updated_at: '2025-02-27T18:59:10.535Z'
+- language: ru
+  content_row_id: 37
+  created_at: '2024-08-31T05:01:25.837Z'
+  updated_at: '2025-02-27T18:59:10.535Z'
+source_title:
+  en: 'Dreams in Ancient Greek Philosophy: Aristotle''s Perspective'
+  ru: 'Сновидения в древнегреческой философии: взгляд Аристотеля'
+source_description:
+  en: Discover Aristotle's profound insights on dreams as explored in ancient Greek philosophy, shedding light on the connection between dreams and reality.
+  ru: Откройте для себя глубокие размышления Аристотеля о сновидениях, исследованные в древнегреческой философии, проливающие свет на связь между сновидениями и реальностью.
+source_slug:
+  en: dreams-in-ancient-greek-philosophy-aristotles-perspective
+  ru: snovideniya-drevnegreciya-aristotel
+images:
+- slug: wmqxohtsq9b6223nzihnr-1280x720
+  metadata: images/wmqxohtsq9b6223nzihnr-1280x720/metadata.yaml
+  source_field: imageWeb
+  source: /documents/5f698486-7463-450f-997b-1e0bc3b508bc/WmQxOHtsQ9b6223nzihNr_1280X720.webp
+- slug: wmqxohtsq9b6223nzihnr-1280x720
+  metadata: images/wmqxohtsq9b6223nzihnr-1280x720/metadata.yaml
+  source_field: imageMob
+  source: /documents/5f698486-7463-450f-997b-1e0bc3b508bc/WmQxOHtsQ9b6223nzihNr_1280X720.webp
+traceability:
+  source_files:
+  - documents_202606241032.json
+  - documents_content_202606241032.json
+  draft_rows_present: 0
+  non_migrated_languages:
+  - 3
+  - 4
+  - 5
+  - 7
+  - 8
+  - 14
+  - 37
+  - 61
+  - 75
+  - 129
+  - 130

@@ -1,0 +1,60 @@
+title: 'Innovating at BlockJam 2025: An Interview with Siamon Piazolo'
+source_id: 97feee1c-dc9d-4d49-8c90-6cc8527d3016
+source_status: todo
+source_type: interview
+topic: BlockJam 2025
+topic_slug: blockjam-2025
+active: true
+free: true
+premium: false
+exclusive: false
+publication_date: '2025-10-07T06:00:48.258Z'
+visible_since: null
+visible_until: null
+created_at: '2025-09-24T10:57:10.357Z'
+updated_at: '2025-09-24T11:30:30.651Z'
+deleted_at: '1969-12-31T23:00:00.000Z'
+available_translations:
+- en
+- ru
+source_languages_migrated:
+- language: en
+  content_row_id: 432
+  created_at: '2025-10-07T08:48:12.493Z'
+  updated_at: '2025-10-07T08:48:12.493Z'
+- language: ru
+  content_row_id: 433
+  created_at: '2025-10-07T08:51:43.078Z'
+  updated_at: '2025-10-07T08:51:43.078Z'
+source_title:
+  en: 'Innovating at BlockJam 2025: An Interview with Siamon Piazolo'
+  ru: 'Инновации на BlockJam 2025: интервью с Сиамоном Пиазоло'
+source_description:
+  en: In this exclusive interview from BlockJam 2025, co-founder Siamon Piazolo shares his perspective on the future of Theta technologies, the role of ASRP's dream data, and how hackathons can drive innovation at the intersection of AI, Web3, and collective intelligence. We discuss the vision behind these projects, the challenges of building meaningful applications, and what opportunities lie ahead for developers, researchers, and creators working with decentralized platforms.
+  ru: В этом эксклюзивном интервью с BlockJam 2025 сооснователь Сиамон Пиазоло делится своим взглядом на будущее технологий Theta, роль данных о сновидениях ASRP и то, как хакатоны могут стимулировать инновации на пересечении ИИ, Web3 и коллективного интеллекта. Мы обсуждаем видение этих проектов, сложности создания значимых приложений и возможности, открывающиеся для разработчиков, исследователей и создателей, работающих с децентрализованными платформами.
+source_slug:
+  en: innovating-at-blockjam-2025-an-interview-with-siamon-piazolo
+  ru: innovacii-na-blockjam-2025-intervyu-s-siamonom-piazolo
+images:
+- slug: lwtxfjw8eu1as6kaqzwja-1280x720
+  metadata: images/lwtxfjw8eu1as6kaqzwja-1280x720/metadata.yaml
+  source_field: imageWeb
+  source: /documents/97feee1c-dc9d-4d49-8c90-6cc8527d3016/imageWeb/LwTxfjW8Eu1AS6KAqZWja_1280X720.webp
+- slug: lwtxfjw8eu1as6kaqzwja-1920x1080
+  metadata: images/lwtxfjw8eu1as6kaqzwja-1920x1080/metadata.yaml
+  source_field: imageWeb
+  source: /documents/97feee1c-dc9d-4d49-8c90-6cc8527d3016/imageWeb/LwTxfjW8Eu1AS6KAqZWja_1920X1080.jpg
+- slug: lwtxfjw8eu1as6kaqzwja-1280x720
+  metadata: images/lwtxfjw8eu1as6kaqzwja-1280x720/metadata.yaml
+  source_field: imageMob
+  source: /documents/97feee1c-dc9d-4d49-8c90-6cc8527d3016/imageWeb/LwTxfjW8Eu1AS6KAqZWja_1280X720.webp
+- slug: lwtxfjw8eu1as6kaqzwja-1920x1080
+  metadata: images/lwtxfjw8eu1as6kaqzwja-1920x1080/metadata.yaml
+  source_field: imageMob
+  source: /documents/97feee1c-dc9d-4d49-8c90-6cc8527d3016/imageWeb/LwTxfjW8Eu1AS6KAqZWja_1920X1080.jpg
+traceability:
+  source_files:
+  - documents_202606241032.json
+  - documents_content_202606241032.json
+  draft_rows_present: 7
+  non_migrated_languages: []

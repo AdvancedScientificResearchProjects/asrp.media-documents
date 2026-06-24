@@ -1,0 +1,63 @@
+title: Training Athletes in Their Sleep, Lucid Dream Induction, VR, and New Research in an Interview with Professor Dr. Daniel Erlacher.
+source_id: 3e5a0e40-3a5f-4a8c-a6d1-c0ec0a619b9e
+source_status: todo
+source_type: interview
+topic: Technology and AI
+topic_slug: technology-and-ai
+active: true
+free: true
+premium: false
+exclusive: false
+publication_date: '2023-11-06T07:25:06.805Z'
+visible_since: null
+visible_until: null
+created_at: '2023-11-06T07:25:06.805Z'
+updated_at: '2025-02-27T18:59:09.869Z'
+deleted_at: '1969-12-31T23:00:00.000Z'
+available_translations:
+- en
+- ru
+source_languages_migrated:
+- language: en
+  content_row_id: 51
+  created_at: '2024-08-31T05:01:25.862Z'
+  updated_at: '2025-02-27T18:59:10.518Z'
+- language: ru
+  content_row_id: 52
+  created_at: '2024-08-31T05:01:25.864Z'
+  updated_at: '2025-02-27T18:59:10.519Z'
+source_title:
+  en: Training Athletes in Their Sleep, Lucid Dream Induction, VR, and New Research in an Interview with Professor Dr. Daniel Erlacher.
+  ru: Тренировки спортсменов во сне, индукция осознанных сновидений, VR и новые исследования в интервью профессора доктора Даниэля Эрлахера.
+source_description:
+  en: Delve into the fascinating intersection of sleep, lucid dreaming, and VR as Professor Dr. Daniel Erlacher discusses training athletes during sleep and the latest research breakthroughs.
+  ru: Погрузитесь в увлекательное сочетание сна, осознанных сновидений и виртуальной реальности, где профессор доктор Даниэль Эрлахер рассказывает о тренировке спортсменов во сне и последних научных прорывах.
+source_slug:
+  en: training-athletes-in-their-sleep-lucid-dream-induction-vr-and-new-research-in-an-interview-with-professor-dr-daniel-erlacher
+  ru: trenirovki-sportsmenov-vo-sne-vr-daniel-erlacher
+images:
+- slug: wnqumrfizjk8xtgp2e2vj-1280x720
+  metadata: images/wnqumrfizjk8xtgp2e2vj-1280x720/metadata.yaml
+  source_field: imageWeb
+  source: /documents/3e5a0e40-3a5f-4a8c-a6d1-c0ec0a619b9e/WnqUMRfIZJK8xTgp2E2vj_1280X720.webp
+- slug: wnqumrfizjk8xtgp2e2vj-1280x720
+  metadata: images/wnqumrfizjk8xtgp2e2vj-1280x720/metadata.yaml
+  source_field: imageMob
+  source: /documents/3e5a0e40-3a5f-4a8c-a6d1-c0ec0a619b9e/WnqUMRfIZJK8xTgp2E2vj_1280X720.webp
+traceability:
+  source_files:
+  - documents_202606241032.json
+  - documents_content_202606241032.json
+  draft_rows_present: 0
+  non_migrated_languages:
+  - 3
+  - 4
+  - 5
+  - 7
+  - 8
+  - 14
+  - 37
+  - 61
+  - 75
+  - 129
+  - 130

@@ -1,0 +1,63 @@
+title: Cybernetics, space, and microflora. Professor Samuel Gorelik on studying sleep physiology using mathematical models.
+source_id: e0ec890c-cdf4-4bb0-8c47-dfe401448315
+source_status: todo
+source_type: interview
+topic: Health and Sleep
+topic_slug: health-and-sleep
+active: true
+free: false
+premium: false
+exclusive: false
+publication_date: '2023-05-25T03:25:06.805Z'
+visible_since: null
+visible_until: null
+created_at: '2023-05-25T03:25:06.805Z'
+updated_at: '2025-02-27T18:59:09.924Z'
+deleted_at: '1969-12-31T23:00:00.000Z'
+available_translations:
+- en
+- ru
+source_languages_migrated:
+- language: en
+  content_row_id: 20
+  created_at: '2024-08-31T05:01:25.792Z'
+  updated_at: '2025-02-27T18:59:10.499Z'
+- language: ru
+  content_row_id: 21
+  created_at: '2024-08-31T05:01:25.795Z'
+  updated_at: '2025-02-27T18:59:10.501Z'
+source_title:
+  en: Cybernetics, space, and microflora. Professor Samuel Gorelik on studying sleep physiology using mathematical models.
+  ru: Кибернетика, космос и микрофлора. Профессор Самуил Горелик об изучении физиологии сна с помощью математических моделей.
+source_description:
+  en: Professor Samuel Gorelik explores the intersection of cybernetics, space, and microflora in sleep physiology, using mathematical models to deepen our understanding of these connections.
+  ru: Профессор Самуил Горелик исследует пересечение кибернетики, космоса и микрофлоры в физиологии сна, используя математические модели для углубления нашего понимания этих связей.
+source_slug:
+  en: cybernetics-space-and-microflora-professor-samuel-gorelik-on-studying-sleep-physiology-using-mathematical-models
+  ru: kibernetika-kosmos-i-mikroflora-professor-samuil-gorelik
+images:
+- slug: gsc18gum1uswwczysv-k-1280x720
+  metadata: images/gsc18gum1uswwczysv-k-1280x720/metadata.yaml
+  source_field: imageWeb
+  source: /documents/e0ec890c-cdf4-4bb0-8c47-dfe401448315/_gsc18GUM1USWWCZysV_K_1280X720.webp
+- slug: gsc18gum1uswwczysv-k-1280x720
+  metadata: images/gsc18gum1uswwczysv-k-1280x720/metadata.yaml
+  source_field: imageMob
+  source: /documents/e0ec890c-cdf4-4bb0-8c47-dfe401448315/_gsc18GUM1USWWCZysV_K_1280X720.webp
+traceability:
+  source_files:
+  - documents_202606241032.json
+  - documents_content_202606241032.json
+  draft_rows_present: 0
+  non_migrated_languages:
+  - 3
+  - 4
+  - 5
+  - 7
+  - 8
+  - 14
+  - 37
+  - 61
+  - 75
+  - 129
+  - 130

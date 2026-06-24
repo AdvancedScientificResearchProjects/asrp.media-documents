@@ -1,0 +1,63 @@
+title: 'Ibn al-Haytham and His "Book of Experiments": Lucid Dreams in Arabic Science'
+source_id: 0fe9e5a2-2d36-4403-948e-1ed8bcb024c6
+source_status: todo
+source_type: article
+topic: History and Philosophy
+topic_slug: history-and-philosophy
+active: true
+free: false
+premium: false
+exclusive: false
+publication_date: '2023-09-21T03:25:06.805Z'
+visible_since: null
+visible_until: null
+created_at: '2023-09-21T03:25:06.805Z'
+updated_at: '2025-02-27T18:59:09.969Z'
+deleted_at: '1969-12-31T23:00:00.000Z'
+available_translations:
+- en
+- ru
+source_languages_migrated:
+- language: en
+  content_row_id: 61
+  created_at: '2024-08-31T05:01:25.884Z'
+  updated_at: '2025-02-27T18:59:10.609Z'
+- language: ru
+  content_row_id: 40
+  created_at: '2024-08-31T05:01:25.843Z'
+  updated_at: '2025-02-27T18:59:10.539Z'
+source_title:
+  en: 'Ibn al-Haytham and His "Book of Experiments": Lucid Dreams in Arabic Science'
+  ru: 'Ибн аль-Хайсам и его "Книга опытов": осознанные сновидения в арабской науке'
+source_description:
+  en: Ibn al-Haytham's 'Book of Experiments' bridges the gap between ancient Arabic science and the mystical exploration of lucid dreams, showcasing the depth of his scientific inquiry.
+  ru: «Книга опытов» Ибн аль-Хайсама соединяет древнюю арабскую науку с мистическим исследованием осознанных сновидений, демонстрируя глубину его научных изысканий.
+source_slug:
+  en: ibn-al-haytham-and-his-book-of-experiments-lucid-dreams-in-arabic-science
+  ru: ibn-al-khaitam-kniga-opytov
+images:
+- slug: 4gvuq6xytqlwxiur58h-1280x720
+  metadata: images/4gvuq6xytqlwxiur58h-1280x720/metadata.yaml
+  source_field: imageWeb
+  source: /documents/0fe9e5a2-2d36-4403-948e-1ed8bcb024c6/__4gVUQ6XytqlwXIuR58h_1280X720.webp
+- slug: 4gvuq6xytqlwxiur58h-1280x720
+  metadata: images/4gvuq6xytqlwxiur58h-1280x720/metadata.yaml
+  source_field: imageMob
+  source: /documents/0fe9e5a2-2d36-4403-948e-1ed8bcb024c6/__4gVUQ6XytqlwXIuR58h_1280X720.webp
+traceability:
+  source_files:
+  - documents_202606241032.json
+  - documents_content_202606241032.json
+  draft_rows_present: 0
+  non_migrated_languages:
+  - 3
+  - 4
+  - 5
+  - 7
+  - 8
+  - 14
+  - 37
+  - 61
+  - 75
+  - 129
+  - 130
