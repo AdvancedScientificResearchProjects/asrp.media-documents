@@ -1,0 +1,191 @@
+# "This is augmented reality." Ilya Sergeyevich Blokhin talks about the incredible possibilities that studying dreams and lucid dreaming opens up. / «Это дополненная реальность». Илья Сергеевич Блохин о том, какие невероятные возможности открывает изучение снов и осознанных сновидений.
+
+## EN
+
+### ASRP.media
+
+> Why is it that only enthusiasts are seriously engaged in the study of dreams and lucid dreams in the field of academic science today?
+
+### Ilya Blokhin:
+
+> The annual growth in the number of scientific publications on lucid dreaming exceeds 5%. If there were only a few of them per decade before, now there are several dozen per year. Today, the scientific community regards this topic not as esoteric or metaphysical, but as a promising direction in neurophysiology that allows us to better understand how our brain works. However, in Russia, the study of dreams is still mainly reliant on enthusiasts from various fields. Why is that?
+> Firstly, there is a scarcity of specialists, among whom it is still necessary to find those who have even heard of lucid dreaming.
+> Secondly, the difficulty and cost of conducting experiments. So far, all experiments have mainly been based on the work of Dr. Keith Hearne and Alan Worsley (1972) on tracking the eye movements of a sleeping person during lucid dreaming. And these experiments require expensive equipment and special conditions.
+> Thirdly, not every practitioner will be able to demonstrate their skills when you have thirty wires fixed on you.
+> Fourthly, it is not entirely clear what needs to be researched. Repeating the eye movement experiment for the hundredth time is not very interesting. And without a formulated methodology, you are just that enthusiast who moves science according to their subjective discretion.
+
+### ASRP.media
+
+> Can lucid dreams be dual-use technologies? By the way, in April 2019, the Russian media outlet RBC, citing the official publication of the Ministry of Defense of the Russian Federation, the magazine 'Army Digest', published an article 'Super Soldier for the Warrior of the Future' about the military's use of developments in the field of combat parapsychology in special forces.
+
+### Ilya Blokhin:
+
+> More likely no than yes. In any case, my experience with lucid dreaming tells me no. I can only briefly explain... Lucid dreaming at the level of games and entertainment is not capable of bringing enough benefits to the 'real' world. And if you delve deeper, you encounter a very strict 'censorship' of permissible actions, including without 'assistance' from within the dream itself, it is impossible to achieve serious results. And here the intention with which you come, the motivation that drives you, comes to the forefront. I wouldn't even want to think about the fact that human abilities in lucid dreaming will ever be attempted to be applied beyond personal growth and development. On the other hand, in the United States, lucid dreaming has been used to correct psychological traumas suffered by soldiers involved in combat. Also, in lucid dreaming, you can practice special skills, motor skills. I think that hundreds of battles were won by brilliant commanders with the help of what they 'played out' battle scenarios in their dreams.
+
+## How ants unite into a single 'mind' and build an anthill, or bees their hive - in the same way dreamers construct a 'world of dreams'.
+
+!https://asrp.media/storage/assests/asrp.media/05.23/2.webp
+
+Dream World.
+
+### ASRP.media
+
+> Why do scientists today, when studying lucid dreams and paradoxical sleep, not apply the concept of cells (i.e., subjects are not grouped into 6 plus 1), but instead study each dreamer individually?
+
+### Ilya Blokhin:
+
+> When it comes to lucid dreaming, I always remember the joke: 'Theory is when everything is understood, but nothing works. Practice is when everything works, but it's not clear how.' Lucid dreaming is a practice that, for now, is not clear how it works. Today, it is impossible to peek 'beyond' wakefulness, that is, into the dream. Reports from dreamers about what they saw in their dreams cannot be considered scientific data and used to build scientific theories. They simply do not meet Popper's criterion for falsification of data. Therefore, we will not see theories about the inner structure of dreams within the walls of the temple of science anytime soon. In my time, I formulated a hypothetical model describing the structure of dreams: one person in their perception can 'hold' a small number of objects. In order to see 'big' and vivid dreams ('locations'), it is necessary for several people to be involved, consolidating their perceptual abilities. This is the same as connecting multiple computers in a network or placing a macro-network above neural networks. Just like ants unite into a single 'mind' and build an anthill, or bees have their hive, dreamers also construct a 'dream world'. And every sleeper has the opportunity to become part of this 'anthill' at night.The union in "cells" based on the principle of cellular communication helps to distribute "roles" between those who "build" ("sprite") and those who "dream" ("adept") at the moment. In the polysomnogram of a sleeping person, we see this as orthodox (slow) and paradoxical (fast) sleep. But in order to conduct an experiment and develop a methodology that could prove or refute this model (Popper's criterion), we lack knowledge of how and by what mechanisms people could "unite". We simply need to pave the way here. In practice, all these principles work perfectly and help the dreamer to navigate "inside" the dream, organize and structure the practice. As long as this model is beneficial, just like the planetary model of the Rutherford atom is beneficial, although everyone understands that electrons are not planets and the nucleus is not the Sun. It's just a convenient mathematical model that produces good results in practice.
+
+## The Dream Cube is a device that helps you fall asleep, sleep deeply, and experience lucid dreams.
+
+### ASRP.media
+
+> How do you feel about the study of electromagnetic fields in the biosphere? For reference, the first publication on biological communication systems in the USSR dates back to 1966. The results of these studies were registered as a scientific discovery and published in 1981 in the book "Weak Radiations in Intercellular Interactions" by V.P. Kaznacheev and L.P. Mikhailova. The results of experiments (electromagnetic-biological) using rabbits as inductors and recipients for the construction of a biological communication system were published in 1978 and 1984 - in the first volume of the book "Electromagnetic Fields in the Biosphere" edited by Dr. N.V. Krasnogorskaya, Doctor of Physical and Mathematical Sciences. Experiments on rabbits were conducted from 1965 to 1967 by a team of specialists under the guidance of Dr. V.P. Perov, Doctor of Technical Sciences.
+
+### Ilya Blokhin:
+
+> In theory, weak electromagnetic fields should not have an impact on biological objects. Calculations show that the magnitude of external electromagnetic influence on biological systems should exceed natural fields by tens of times. However, in practice, the situation is different - it is the weak fields that have a biological effect, not the strong ones. Here it is appropriate to recall: 'Theory is when everything is understood, but nothing works. Practice is when everything works, but it is not understood.' I have been studying the effects of weak electromagnetic fields on human sleep since 2015. We have investigated the relationship between the quality of participants' dreams and the Ar-index of geomagnetic activity, and have identified a qualitative correlation between the behavior of the geomagnetic environment and the nature of participants' dreams. This work formed the basis of the hypothesis that it is possible to influence sleep and dreams in humans using electromagnetic fields of geomagnetic origin [THE INFLUENCE OF ELECTROMAGNETIC SCHUMANN RESONANCES ON THE BRAIN RHYTHMS DURING SLEEP, Bulletin Of National Academy Of Sciences Of The Republic Of Kazakhstan, ISSN 1991-3494, Volume 4, Number 356 (2015), 38 – 43]. The typical intensity of the electric and magnetic components of such fields rarely exceeds 1 pW/cm2 and 10 pT, respectively.Based on these studies, we have developed a device called the 'Sleep Cube' that helps with falling asleep, deep sleep, and even lucid dreaming. Its operation is based on weak electromagnetic impulses in the frequency range of 1 to 40 Hz. At 1-2 Hz, it stimulates deep sleep, while at 32-40 Hz, it can stimulate lucid dreaming [Ursula Voss, et al., 'Induction of self-awareness in dreams through frontal low current stimulation of gamma activity', Nature Neuroscience volume 17, pages 810–812 (2014)]. In the West, a similar technology of influence is called PEMF (Pulsed Electromagnetic Field). Our other studies [Blokhin I.S., Dorokhov V.B. et al., 'Impact of weak extremely low-frequency pulsed electromagnetic field on subjective assessment of sleep quality', Journal of Sleep Research, Volume 27, Issue S1, Blokhin I.S., Dorokhov V.B. et al., 'Effects of Exposure to a Weak Extremely Low-Frequency Electromagnetic Field on Daytime Sleep Architecture and Length', Sleep Medicine Research (SMR) 2019; 10(2): 97-102] have demonstrated the effectiveness of this method in improving sleep quality, which prompts us to take a fresh look at the processes of magnetosensitivity in living cells of the body. As for the ultra-weak radiation in intercellular interactions, there is also a lot of interesting information here.In my student years, I calculated the optical conductivity of microtubules in the cellular cytoskeleton - they are excellent candidates for cellular and intercellular communication as optical fibers in the short-wavelength optical range. On the other hand, in neuronal synapses, during the passage of a nerve impulse, a coronal discharge with the generation of characteristic radiation in the ultraviolet range of the spectrum with a wavelength of 150-400 nm can be observed [Blokhin I., Kasymbayev M., et al., "Investigation of electromagnetic radiation generation by neurons of the central nervous system", BULLETIN OF NATIONAL ACADEMY OF SCIENCES OF THE REPUBLIC OF KAZAKHSTAN, ISSN 1991-3494, Volume 4, Number 356 (2015), 172 - 175]. Finally, the DNA molecule itself is capable of generating coherent radiation under the influence of external radiation in the visible and short-wavelength spectrum due to the mechanism of two-photon absorption [Agaltsov A.M., Garyaev P.P., Two-photon-excited luminescence in genetic structures. Quantum electronics. 1996. Vol.23. No. 2. P.181-184.]. If you combine these cellular and intercellular phenomena, you will achieve complete intercellular communication, with all living biological structures literally "glowing". In other words, if we are looking for electromagnetic communication between cells in a living organism, it can only exist in the far visible and ultraviolet ranges of the spectrum.But it is very weak, it does not go beyond the body - you cannot see it with your eyes. Therefore, there is no need to talk about any kind of 'telepathic' processes, at least not with the help of electromagnetic processes taken as a basis.
+
+## From ancient highly developed civilizations of the past to the theory of Multiverse.
+
+### ASRP.media
+
+> What is your opinion on the research of Vadim Chernobrov (Russian ufologist, coordinator of the 'Cosmopoisk' project) and his overall research career?
+
+### Ilya Blokhin
+
+> I am not familiar with Vadim Chernobrov specifically and have not been interested in his research. In general, I have a reserved attitude towards ufology. Questions about whether we are alone in the universe interest everyone to a greater or lesser extent. There are numerous unexplained phenomena around us. If you tune your brain's reticular formation to them, you can see unusual things even on your way to work every day. I am a supporter of many conspiracy theories and do not hide it. From ancient highly developed civilizations of the past to the theory of the Multiverse. And, of course, there is a place here for 'gray' little people. But all these topics are vectors for scientific exploration, not a statement of the fact of their existence.
+
+## Lucid dreams, like regular dreams, are like augmented reality.
+
+!https://asrp.media/storage/assests/asrp.media/05.23/2.webp
+
+Lucid dreaming is a form of augmented reality.
+
+### ASRP.media
+
+> In your opinion, is there any connection between the so-called pictograms in the fields and lucid dreaming?
+
+### Ilya Blokhin:
+
+> My attitude towards pictograms in fields is like 'clues' left at the scene of the 'crime'. That is, we can identify the 'culprit', or we can accuse the 'innocent'. This needs to be clearly understood. I have been observing this phenomenon since 2010 and can say that in most cases, it is not 'hedgehogs' or boards on ropes. Today, augmented reality technology is developing, where you point your smartphone at a football field, and it shows a dinosaur there. It seems to me that lucid dreams, like ordinary dreams, are like augmented reality. Through them, we can see more than is available to us in reality. Mikhail Raduga claims that all experiments with contact with UFOs (UAP) and other evidence of paranormal phenomena occur in lucid dreams, out-of-body experiences, sleep paralysis, and false awakenings [2021 July Michael Raduga, Andrey Shashkov, Zhanna Zhunusova 'Emulating alien and UFO encounters in REM sleep', DOI:10.11588/ ijodr.2021.2.78599]. I would also add various religious and spiritual experiences here. However, if we equate the perception of reality with the perception of dreams (the key is perception, not ephemeral objectivity), then we equate reality with dreams, and all paranormal phenomena can and should only be considered in conjunction with the 'dream reality'.Pictograms in the fields in this light are the tip of the iceberg and a very important milestone in human history. This phenomenon is something we have to come to terms with until we figure out its origin. I do not exclude that this will be one of the important steps towards the 'great unification', but not the fundamental types of interaction in physics, but the fundamental types of human perception.
+
+!https://asrp.media/storage/assests/asrp.media/05.23/3.webp
+
+Lucid dreaming is a form of augmented reality.
+
+### ASRP.media
+
+> Could not find your books for sale. Are they not being reissued or can they only be found in private collections?
+
+### Ilya Blokhin:
+
+> The book "Dream" (also known as "Stalker of Dreams") was published at the end of 2014 and was released in several editions. Since then, it has not been reprinted. This required too much effort and resources from me, which were directed towards the "Dream Cube" project that I am still working on. However, at the end of 2023, I plan to reprint it under the brand "deep". However, it will have a different name.
+
+### ASRP.media
+
+> What do you envision the future of dream study to be like? What doors does it open?
+
+### Ilya Blokhin:
+
+> I think that a dream will provide answers to many questions: about life and death, the origin of man, the metaphysics of the multiverse, and, of course, the potential of man himself. Each of us can conduct a simple experiment. Look at a bright source of light in the evening, then look away. You will see a light spot in your field of vision, which is formed because the rods and cones in the retina of the eye cannot instantly release the 'tension' from contact with a bright source of light and continue to send signals to the visual cortex of the brain. Now repeat this same experiment in a dream: look at any light source and wake up. You will have a 'light bunny' in front of your eyes for several seconds to a minute. The question is - where did it come from? After all, your eyelids were closed and no light fell on the retina. Stephen LaBerge, in his book 'Lucid Dreaming' [Ch. 2. 'History and Origins of Lucid Dreaming'], quotes a letter from Blessed Augustine, written in 415 AD. Discussing the possibility of existence after death, when physical senses have already faded, Augustine tells the story of Gennadius, a doctor from Carthage, and his dream.Gennadius, who was tormented by doubts about the afterlife, dreamed of a young man of "beautiful appearance and majestic stature" who commanded him, "Follow me!" Humbly following this angelic youth, Gennadius found himself in a city where he heard singing. It was so sublime and beautiful that it resembled nothing he had heard before. When he inquired about the source of this music, Gennadius received the answer that it was the "Hymn of the Blessed and Holy." After waking up, he realized that everything he had experienced was "just a dream." On the next night, the young man appeared to him again and asked if Gennadius recognized him. When the doctor answered, "Of course!" the young man asked if he remembered where they had met. Gennadius did not disappoint him and was able to give a worthy answer by recounting the events of the previous dream. Then the young man asked whether, in Gennadius' opinion, these events had taken place in a dream or in real life. When Gennadius replied that it was in a dream, the young man continued, "You remember burying what happened. You are right, all of this really happened in a dream, but I want you to understand that you are still asleep." At that moment, Gennadius realized that he was dreaming.Furthermore, during the lucid dream, the young man asked, "Where is your body now?" Gennadius replied, "In bed," and the dream companion continued, "Do you understand that your eyelids are heavy and closed, and your eyes cannot see anything?" "I know this," Gennadius answered. "Then with whose eyes do you see me?" - the teacher concluded his speech with this question. Gennadius was unable to solve this riddle and remained silent. Then the guide "revealed to him that he had been trying to teach him" with all these questions, and solemnly exclaimed, "You are now asleep and lying in your bed, your eyelids are closed, but you can see me and enjoy what you see; therefore, even after death, when your eyes are completely blind, there will still be life in you, in which you will be able to live, and the same ability of perception that is available to you now. From now on, let your anxious doubts about the continuation of life after death be dispelled." I believe that this letter is not only evidence of the ancient question of studying lucid dreams but also indicates "what doors it opens".
+
+Author of the material: Denis Banchenko and Marina Kutsina.
+
+Translation and editing: Mykhailo Kapustin
+
+
+## RU
+
+### ASRP.media:
+
+> Почему сегодня изучением сновидений и осознанных сновидений в гражданском направлении академической науки всерьёз занимаются лишь энтузиасты?
+
+### Илья Блохин:
+
+> Ежегодный прирост числа научных публикаций об осознанных сновидениях превышает 5%. Если раньше их было несколько в десятилетие, то сейчас несколько десятков в год. Сегодня научное сообщество относится к этой теме не как к эзотерике или метафизике, а как к перспективному направлению в нейрофизиологии, которое позволяет лучше узнать, как работает наш мозг. Но в России изучение сновидений, действительно, пока опирается лишь энтузиастов из разных областей. Почему так?
+>  Во-первых, немногочисленность специалистов, среди которых ещё нужно поискать тех, кто хотя бы слышал про осознанные сновидения.
+>  Во-вторых, трудность и дороговизна постановки экспериментов. До сих пор все эксперименты в основном основаны на работах доктора Кита Хирна и Алана Ворсли (1972 г.) по отслеживанию движения глаз спящего во время осознанного сновидения. А эти эксперименты требуют дорогостоящего оборудования и особых условий.
+>  В-третьих, не каждый практик сможет продемонстрировать свои умения, когда на тебе зафиксировано три десятка проводов.
+>  В-четвертых, не вполне понятно, что именно нужно исследовать? В сотый раз повторять эксперимент с движением глаз уже не очень интересно. А без сформулированной методики ты и есть тот самый энтузиаст, двигающий науку по своему субъективному усмотрению.
+
+### ASRP.media:
+
+> Могут ли осознанные сновидения быть технологиями двойного назначения? К слову, в апреле 2019 года федеральное СМИ РБК со ссылкой на официальное издание Министерсва Обороны Российской Федерации журнал «Армейский Сборник» опубликовали статью «Супер солдат для воин будущего» о применении военными разработок так называемой боевой парапсихологии в войсках спецназа.
+
+### Илья Блохин:
+
+> Скорее нет, чем да. Во всяком случае мой опыт осознанных сновидений говорит, что нет. Могу лишь коротко пояснить… Осознанные сновидения на уровне игры и развлечений неспособны принести достаточно пользы для «реального» мира. А если ты погружаешься глубже, то сталкиваешься с очень жёсткой «цензурой» допускаемых действий, в том числе без «помощи» изнутри самого сновидения добиться серьёзных результатов не получится. И здесь на первый план выходит то намерение, с каким ты приходишь, та мотивация, которая тобой движет. Я бы не хотел даже думать о том, что человеческие способности в осознанных сновидениях когда-нибудь попытаются применить за гранью личностного роста и развития. С другой стороны, с Соединённых Штатах использовали осознанные сновидения для коррекции психологических травм, полученных солдатом, участвовавшим в боевых действиях. Так же в осознанном сновидении можно практиковать специальные навыки, моторику. Я думаю, что сотни сражений были выиграны гениальными полководцами ни без помощи того, что они «прокручивали» сценарии битв в своих сновидениях.
+
+## "Как муравьи объединяются в единый «разум» и стоят муравейник, или пчелы свой улей – так же и сновидцы выстраивают «мир сновидений»".
+
+!https://asrp.media/storage/assests/asrp.media/05.23/2.webp
+
+Мир сновидений
+
+### ASRP.media:
+
+> Почему сегодня учёные при исследовании осознанных сновидений и парадоксального сна не применяют концепцию соты (то есть испытуемые не объединяются в группы 6 плюс 1), а исследуют индивидуально каждого сновидца?
+
+### Илья Блохин:
+
+> Говоря об осознанных сновидениях, я всегда вспоминаю шутку: «Теория – это когда все понятно, но ничего не работает. Практика – это когда все работает, но непонятно как». Осознанные сновидения – это практика, которая, пока что, непонятно как работает. Сегодня заглянуть «по ту сторону» бодрствования, т.е. в сновидение, невозможно. Отчёты сновидцев о том, что они видели во сне, нельзя считать научными данными и строить на них научные теории. Они просто не проходят критерий Поппера о фальсификации данных. Поэтому в стенах храма науки теории о внутренней структуре сновидений мы увидим ещё нескоро. Я в своё время сформулировал гипотетическую модель, описывающую структуру сновидений: один человек в своём восприятии может «удержать» небольшое количество объектов. Для того, чтобы видеть «большие» и яркие сны («локации»), необходимо, чтобы в этом принимало участие несколько человек, консолидирующих свои возможности восприятия. Это то же самое, что объединить несколько компьютеров в сеть или разместить макросеть над нейросетями. Примерно так же, как муравьи объединяются в единый «разум» и стоят муравейник, или пчелы свой улей – так же и сновидцы выстраивают «мир сновидений». И каждый спящий имеет возможность ночью стать частью этого «муравейника». Объединение в «соты» по принципу сотовой связи, помогают распределить «роли» между тем, кто «строит» («спрайт») и тем, кто «сновидит» («адепт») в данный момент времени. На полисомнограмме спящего мы это видим как ортодоксальный (медленный) и парадоксальный (быстрый) сон. Но для того, чтобы поставить эксперимент и выработать методику, который мог бы доказать эту модель или опровергнуть (критерий Поппера), у нас недостаточно знаний о том, как и с помощью каких механизмов люди могли бы «объединяться». Просто сюда ещё нужно проложить дорогу. На практике же все эти принципы отлично работают и помогают ориентироваться сновидцу «внутри» сновидения, организовывать и структурировать практику. Пока эта модель приносит пользу, как приносит пользу планетарная модель атома Резерфорда, хотя и все прекрасно понимают, что электроны – не планеты, а ядро – не Солнце. Просто это удобная математическая модель, которая на практике даёт хорошие результаты.
+
+## «Кубик сна» — устройство, помогающее уснуть, глубоко спать и видеть осознанные сновидения.
+
+### ASRP.media:
+
+> Как Вы относитесь в исследованию электромагнитных полей в биосфере? Для справки первая публикация по биологическим системам связи в СССР датирована ещё 1966 годом. Результаты этих работ были зарегистрированы в качестве научного открытия, опубликованы в 1981 году в книге В.П. Казначеева и Л.П. Михайловой «Сверхслабые излучения в межклеточных взаимодействиях». Результаты (электромагнитно-биологических) экспериментов с использованием кроликов в качестве индукторов и перципиентов для построения биологической системы связи были опубликованы в 1978-м и в 1984 году - в первом томе книги «Электромагнитные поля в биосфере» под редакцией доктора физико-математических наук Н.В. Красногорской. Опыты на кроликах проводились с 1965 по 1967 годы коллективом специалистов под руководством доктора технических наук В.П. Перова.
+
+### Илья Блохин:
+
+> В теории слабые электромагнитные поля не должны оказывать влияние на биологические объекты. Вычисления показывают, что величина внешнего электромагнитного воздействия на биологические системы в десятки раз должна превышать естественные поля. Но на практике все выглядит иначе – именно слабые поля имеют биологический эффект, а сильные – нет. Здесь снова уместно вспомнить: «Теория – это когда все понятно, но ничего не работает. Практика – это когда все работает, но непонятно как». Я занимаюсь исследованием воздействия слабых электромагнитных полей на сон человека с 2015 года. Мы исследовали зависимость качества сновидений испытуемых в зависимости от Ар-индекса геомагнитной активности и выявили качественную корреляцию поведения геомагнитной обстановки и характера сновидений испытуемых. Именно эта работа легла в основу гипотезы о том, что с помощью электромагнитных полей геомагнитного происхождения можно влиять на сон и сновидения человека [THE INFLUENCE OF ELECTROMAGNETIC SCHUMANN RESONANCES ON THE BRAIN RHYTHMS DURING SLEEP, Bulletin Of National Academy Of Sciences Of The Republic Of Kazakhstan, ISSN 1991-3494, Volume 4, Number 356 (2015), 38 – 43]. А типичная интенсивность электрической и магнитной составляющих таких полей редко превышает 1 pW/cm2 и 10 pT соответственно. На основании этих исследований мы разработали устройство – «Кубик сна», помогающее уснуть, глубоко спать и даже видеть осознанные сновидения. В основе его действия – слабые импульсы электромагнитного поля в диапазоне частот от 1 до 40 Гц. На 1-2 Гц стимулируется глубокий сон человека, на 32-40 Гц возможно стимулировать осознанные сновидения [Ursula Voss, et al., «Induction of self awareness in dreams through frontal low current stimulation of gamma activity», Nature Neuroscience volume 17, pages 810–812 (2014)]. На западе подобная технология воздействия называется PEMF (Pulsed electromagnetic field). Другие наши исследования [Blokhin I.S., Dorokhov V.B. et al., «Impact of weak extremely low frequency pulsed electromagnetic field on subjective assessment of sleep quality», Journal of Sleep Research, Volume 27, Issue S1, Blokhin I.S., Dorokhov V.B. et al., «Effects of Exposure to a Weak Extremely Low Frequency Electromagnetic Field on Daytime Sleep Architecture and Length», Sleep Medicine Research (SMR) 2019; 10(2): 97-102] доказали эффективность методики применимо к качеству сна, что заставляет нас по-новому взглянуть на процессы магниточувствительности живых клеток организма. Что касается сверхслабых излучений в межклеточных взаимодействиях, то здесь тоже много интересного. В студенческие годы я вычислял оптическую проводимость микротрубочек клеточного скелета – они отлично подходят на роль клеточного и межклеточного сообщения в качестве оптоволокна в коротковолновом оптическом диапазоне. С другой стороны в синапсах нейронов при прохождении нервного импульса можно наблюдать коронарный разряд с генерацией характерного излучения в ультрафиолетовом диапазоне спектра с длиной волны 150-400 нм [Блохин И., Касымбаев М., и др., "Исследование генерации электромагнитного излучений нейронами центральной нервной системы", BULLETIN OF NATIONAL ACADEMY OF SCIENCES OF THE REPUBLIC OF KAZAKHSTAN, ISSN 1991-3494, Volume 4, Number 356 (2015), 172 – 175]. Наконец, сама молекула ДНК способна к генерации когерентного излучения под воздействием внешнего излучения в видимом и коротковолновом спектре за счёт механизма двухфотонного поглощения [Агальцов А.М., Гаряев П.П., Двухфотонно-возбуждаемая люминесценция в генетических структурах. Квантовая электроника. 1996. Т.23. № 2. С.181-184.]. Если вы объедините эти клеточные и межклеточные явления, то получите полноценную межклеточную коммуникацию, при этом все живые биологические структуры в буквальном смысле «светятся». То есть, если мы ищем в живом организме электромагнитное сообщение между клетками, то оно может лежать только в дальнем видимом и ультрафиолетовом диапазонах спектра. Но оно очень слабое, не выходит за пределы организма – глазами его не увидишь. Поэтому говорить о какого-либо рода «телепатических» процессах не приходится, во всяком случае не с помощью электромагнитных процессов, взятых за основу.
+
+## "От древних высокоразвитых цивилизаций прошлого, до теории Мультивселенной."
+
+### ASRP.media:
+
+> Как Вы относитесь к исследованиям Вадима Черноброва (российского уфолога, координатора проекта «Космопоиск») и в целом к его исследовательской судьбе?
+
+### Илья Блохин:
+
+> Конкретно с Вадимом Чернобровым я не знаком, не интересовался его исследованиями. Если говорить в целом, то к уфологии отношусь сдержанно. Вопросы, одиноки ли мы во вселенной интересуют в большей или меньшей степени каждого. Необъяснимых явлений вокруг нас огромное множество. Если настроить на них свою ретикулярную формацию мозга, то можно хоть каждый день по дороге на работу видеть необычные вещи. Я сторонник многих конспирологических теорий, и не скрываю этого. От древних высокоразвитых цивилизаций прошлого, до теории Мультивселенной. И, разумеется, здесь есть место и "серым" человечкам. Но все эти темы являются векторами для научного поиска, а не констатацией факта их существования.
+
+## "Осознанные сновидения, как и обычные сны – это как дополненная реальность."
+
+!https://asrp.media/storage/assests/asrp.media/05.23/2.webp
+
+Осознанные сновидения, как дополненная реальность.
+
+### ASRP.media:
+
+> На Ваш взгляд есть ли какая-то связь между так называемыми пиктограммами на полях и осознанными сновидениями?
+
+### Илья Блохин:
+
+> Моё отношение к пиктограммам на полях как к «уликам», оставленным на месте «преступления». Т.е. мы можем вычислить «преступника», а можем и обвинить «невиновного». Это нужно чётко понимать. Я слежу за этим явлением с 2010 года и могу сказать, что убеждён в большинстве случаев это не «ёжики» и не доски на верёвках. Сегодня развивается технология дополненной реальности, когда вы наводите смартфон на футбольное поле, а он показывает там динозавра. Мне кажется, что осознанные сновидения, как и обычные сны – это как дополненная реальность. Через их призму мы можем видеть больше, чем нам доступно в реальности. Михаил Радуга утверждает, что все опыты контакта с UFO (UAP) и другими свидетельствами паранормальных явлений происходили в осознанных снах, выходах из тела, сонных параличах и ложных пробуждениях [2021 July Michael Raduga, Andrey Shashkov, Zhanna Zhunusova «Emulating alien and UFO encounters in REM sleep», DOI:10.11588/ ijodr.2021.2.78599]. Я бы сюда добавил еще и всевозможные религиозные и духовные опыты. Однако стоит нам поставить знак равенства между восприятием реальности и восприятием сновидения (ключевое – восприятие, а не эфемерная объективность), как мы приравниваем реальность к снам, и все паранормальные явления можно и нужно рассматривать только в паре со «сновидческой реальностью». Пиктограммы на полях в этом свете – это верхушка айсберга и очень важная веха в истории человека. Это явление, с которым нам приходится мириться до тех пор, пока мы не вычислим природу его происхождения. Не исключаю, что это будет одним из важных шагов по «великому объединению», но не основных фундаментальных видов взаимодействия в физике, а основных видов восприятия человека.
+
+!https://asrp.media/storage/assests/asrp.media/05.23/3.webp
+
+Осознанные сновидения, как дополненная реальность.
+
+### ASRP.media:
+
+> Не смогли найти в открытой продаже Ваших книг. Они не переиздаются или их можно найти только в частных собраниях?
+
+### Илья Блохин:
+
+> Книга «Сновидение» (другое название – «Сталкер сновидений») была издана в конце 2014 года и вышла несколькими тиражами. С тех пор она не переиздавалась. Это требовало от меня слишком много сил и ресурсов, которые были направлены на проект «Кубик сна», которым я занимаюсь по сей день. Однако в конце 2023 года я планирую переиздать её под брендом «deep». Только называться она уже будет по-другому.
+
+### ASRP.media:
+
+> Каким Вам видится будущее в изучении сновидений? Какие двери оно открывает?
+
+### Илья Блохин:
+
+> Я думаю, что сновидение даст ответы на многие вопросы: жизни и смерти, происхождения человека, метафизики мультивселенной и, разумеется, возможностей самого человека. Каждому из нас может провести простой эксперимент. Посмотрите вечером на яркий источник света, затем отведите взгляд. Вы будете видеть световое пятно в поле зрения, которое образовалось из-за того, что палочки и колбочки на сетчатке глаза не могут мгновенно сбросить «напряжение» от контакта с ярким источником света и продолжают слать сигнал в зрительную кору головного мозга. Теперь повторите этот же опыт в сновидении: посмотрите на любой источник света и проснитесь. У вас перед глазами будет «световой зайчик» от нескольких секунд до минуты. Вопрос – откуда он взялся? Ведь ваши веки были закрыты, а на сетчатку не падал свет. Стивен Лаберж в своей книге «Осознанные сновидения» [Гл. 2. «История и истоки осознанного сновидения»] цитирует письмо Блаженного Августина, написанное в 415 году н.э. Обсуждая возможность существования после смерти, когда физические чувства уже угасли, Августин рассказывает о сновидении Геннадиуса, доктора из Картеджа. Геннадиусу, пребывавшему в мучительных сомнениях в отношении загробной жизни, приснился юноша «прекрасной наружности и величественной стати», который обратился к нему с приказом: «Иди за мной!» Покорно проследовав за этим ангелоподобным юношей, Геннадиус оказался в городе, где услышал пение. Оно было настолько возвышенным и прекрасным, что не походило ни на что слышанное им ранее. Поинтересовавшись, откуда эта музыка, Геннадиус получил ответ, что это «Гимн блаженных и святых». После этого он проснулся и понял, что все пережитое было «лишь сном». На следующую ночь ему снова приснился юноша, который спросил, узнал ли его Геннадиус. Когда доктор ответил «Конечно!», юноша спросил, помнит ли он, где они познакомились. Геннадиуса не подвела намять, и он «смог дать достойный ответ», перечислив события предыдущего сна. Тогда юноша спросил, где, по мнению Геннадиуса, произошли эти события, во сне или в реальной жизни. Когда Геннадиус ответил, что во сне, юноша продолжил: «Ты хороню помнишь произошедшее. Ты прав, все это действительно происходило во сне, но я хочу, чтобы ты понимал, что ты и сейчас спишь». Тут Геннадиус осознал, что видит сон. Далее, в ходе сновидения, теперь уже осознанного, юноша спросил: «Где сейчас твое тело?» Геннадиус ответил: «В постели», – и сновидный спутник продолжил свою речь: «Понимаешь ли ты, что твои веки тяжелы и закрыты, а глаза ничего не могут видеть?» «Я знаю это», – ответил Геннадиус. «Тогда чьими глазами ты видишь меня?» – этим вопросом учитель из сновидения закончил свою речь. Геннадиус был не в состоянии разгадать эту загадку и хранил молчание. Тогда проводник «раскрыл ему, что с помощью всех этих вопросов пытался научить его», и торжественно воскликнул: «Ты сейчас спишь и лежишь в своей постели, твои веки сомкнуты, однако ты можешь видеть меня и наслаждаться тем, что видишь; значит, и после смерти, когда глаза твои полностью ослепнут, в тебе останется жизнь, в которой ты сможешь жить, и та же способность восприятия, которая доступна тебе сейчас. Пускай же отныне тебя оставят тревожные сомнения о продолжении жизни после смерти». Я считаю, что это письмо является не только доказательством древности вопроса изучения осознанных сновидений, но и указывает на то, «какие двери оно открывает».
+
+Автор материала: Денис Банченко и Марина Куцина
+
+Перевод и редактирование: Mykhailo Kapustin
+
