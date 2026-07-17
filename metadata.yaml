@@ -1,0 +1,55 @@
+# Machine-readable metadata for the asrp.media-documents hub.
+# Kept in sync with README.md (title, status, counts, languages, contact).
+name: asrp.media-documents
+title:
+  en: ASRP Media Documents Knowledge Hub
+  ru: Хаб медиа-документов ASRP
+description:
+  en: >-
+    Bilingual (EN/RU) navigation hub for 29 migrated ASRP media, SMM, and
+    publication articles, organized across 9 topics. Media/knowledge catalog,
+    not an experimental study.
+  ru: >-
+    Двуязычный (EN/RU) навигационный хаб для 29 мигрированных медиа-, SMM- и
+    публикационных статей ASRP, распределённых по 9 темам. Медиа-/знаниевый
+    каталог, а не экспериментальное исследование.
+type: hub
+mode: Hub
+status: active
+languages:
+- en
+- ru
+migrated_documents_count: 29
+source_type_counts:
+  interview: 18
+  article: 9
+  research: 2
+source_status_counts:
+  published: 4
+  todo: 25
+topics_count: 9
+topics:
+- art-and-culture
+- blockjam-2025
+- health-and-sleep
+- history-and-philosophy
+- lucid-dreaming
+- markets-and-web3
+- research-methods
+- technology-and-ai
+- uap-and-cosmology
+source_exports:
+- documents_202606241032.json
+- documents_content_202606241032.json
+- document_draft_contents_202606241032.json
+# This hub is a media/knowledge catalog and is not itself the IP basis for any
+# filing. Related ASRP patents are linked from README.md (ASRP Ecosystem).
+patent_filing: none
+publications_dois: []
+contact:
+  organization_en: Advanced Scientific Research Projects LLP
+  organization_ru: 'ТОО "Перспективные Научно-Исследовательские Разработки"'
+  country: Republic of Kazakhstan / Республика Казахстан
+  website: https://asrp.tech
+  email: info@asrp.tech
+last_updated: '2026-07'
