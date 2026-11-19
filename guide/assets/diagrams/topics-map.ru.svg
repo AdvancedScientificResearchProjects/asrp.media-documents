@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 568" width="1000" height="568" role="img" aria-labelledby="t d">
+<title id="t">Документов по темам</title>
+<desc id="d">Горизонтальные полосы по темам, посчитаны по documents/*/metadata.yaml: Осознанные сновидения 10; Технологии и ИИ 5; История и философия 4; Здоровье и сон 3; BlockJam 2025 2; UAP и космология 2; Искусство и культура 1; Рынки и Web3 1; Методы исследований 1. Всего 29 документов.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1000' height='568' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Документов по темам</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Длина полосы = число документов темы</text>
+<text x='976' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ТЕМЫ</text>
+<text x='24' y='122' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>Осознанные сновидения</text>
+<rect x='290' y='100' width='560.0' height='28' rx='8' fill='#ffcf5c' fill-opacity='0.85'/>
+<text x='862.0' y='121' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>10</text>
+<text x='24' y='164' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>Технологии и ИИ</text>
+<rect x='290' y='142' width='280.0' height='28' rx='8' fill='#4ecdc4' fill-opacity='0.85'/>
+<text x='582.0' y='163' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>5</text>
+<text x='24' y='206' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>История и философия</text>
+<rect x='290' y='184' width='224.0' height='28' rx='8' fill='#a78bfa' fill-opacity='0.85'/>
+<text x='526.0' y='205' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>4</text>
+<text x='24' y='248' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>Здоровье и сон</text>
+<rect x='290' y='226' width='168.0' height='28' rx='8' fill='#34d399' fill-opacity='0.85'/>
+<text x='470.0' y='247' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>3</text>
+<text x='24' y='290' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>BlockJam 2025</text>
+<rect x='290' y='268' width='112.0' height='28' rx='8' fill='#6f9bff' fill-opacity='0.85'/>
+<text x='414.0' y='289' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>2</text>
+<text x='24' y='332' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>UAP и космология</text>
+<rect x='290' y='310' width='112.0' height='28' rx='8' fill='#ffa657' fill-opacity='0.85'/>
+<text x='414.0' y='331' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>2</text>
+<text x='24' y='374' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>Искусство и культура</text>
+<rect x='290' y='352' width='56.0' height='28' rx='8' fill='#ffcf5c' fill-opacity='0.85'/>
+<text x='358.0' y='373' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>1</text>
+<text x='24' y='416' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>Рынки и Web3</text>
+<rect x='290' y='394' width='56.0' height='28' rx='8' fill='#4ecdc4' fill-opacity='0.85'/>
+<text x='358.0' y='415' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>1</text>
+<text x='24' y='458' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='600'>Методы исследований</text>
+<rect x='290' y='436' width='56.0' height='28' rx='8' fill='#a78bfa' fill-opacity='0.85'/>
+<text x='358.0' y='457' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>1</text>
+<text x='24' y='530' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Всего: 29 документов в 9 темах. Источник: documents/*/metadata.yaml</text>
+<text x='24' y='550' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>(topic_slug).</text>
+</svg>

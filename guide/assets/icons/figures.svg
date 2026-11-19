@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img">
+<title>figures</title>
+<desc>Navigation icon: figures.</desc>
+<rect x="2" y="2" width="60" height="60" rx="12" fill="#101826" stroke="#4ecdc4" stroke-width="3"/>
+<g fill='none' stroke='#4ecdc4' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'><rect x='12' y='16' width='40' height='32' rx='4'/><path d='M12 38l11-10 9 8 7-6 13 10'/><circle cx='42' cy='25' r='3'/></g>
+</svg>

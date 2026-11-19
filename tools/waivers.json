@@ -1,0 +1,89 @@
+{
+ "waivers": [
+  {
+   "check": "S1_names_missing",
+   "match": "\"ASRP ECOSYSTEM\"",
+   "reason": "Not a loss: heading or label of the old README renamed (case, wording or language split). The legacy anchor of the old heading is kept in README.md and README.ru.md (tools/build_legacy_map.py)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ASRP Ecosystem\"",
+   "reason": "Not a loss: heading or label of the old README renamed (case, wording or language split). The legacy anchor of the old heading is kept in README.md and README.ru.md (tools/build_legacy_map.py)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"CONTACT INFORMATION\"",
+   "reason": "Not a loss: heading or label of the old README renamed (case, wording or language split). The legacy anchor of the old heading is kept in README.md and README.ru.md (tools/build_legacy_map.py)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"DOCUMENTS BY TOPIC\"",
+   "reason": "Not a loss: heading or label of the old README renamed (case, wording or language split). The legacy anchor of the old heading is kept in README.md and README.ru.md (tools/build_legacy_map.py)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"DOCUMENTS CATALOG\"",
+   "reason": "Not a loss: heading or label of the old README renamed (case, wording or language split). The legacy anchor of the old heading is kept in README.md and README.ru.md (tools/build_legacy_map.py)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Documents Catalog\"",
+   "reason": "Not a loss: heading or label of the old README renamed (case, wording or language split). The legacy anchor of the old heading is kept in README.md and README.ru.md (tools/build_legacy_map.py)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"NAVIGATION INDEX\"",
+   "reason": "Not a loss: heading or label of the old README renamed (case, wording or language split). The legacy anchor of the old heading is kept in README.md and README.ru.md (tools/build_legacy_map.py)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"QUICK NAVIGATION\"",
+   "reason": "Not a loss: heading or label of the old README renamed (case, wording or language split). The legacy anchor of the old heading is kept in README.md and README.ru.md (tools/build_legacy_map.py)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"БЫСТРАЯ НАВИГАЦИЯ\"",
+   "reason": "Not a loss: heading or label of the old README renamed (case, wording or language split). The legacy anchor of the old heading is kept in README.md and README.ru.md (tools/build_legacy_map.py)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ДОКУМЕНТЫ ПО ТЕМАМ\"",
+   "reason": "Not a loss: heading or label of the old README renamed (case, wording or language split). The legacy anchor of the old heading is kept in README.md and README.ru.md (tools/build_legacy_map.py)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"КАТАЛОГ ДОКУМЕНТОВ\"",
+   "reason": "Not a loss: heading or label of the old README renamed (case, wording or language split). The legacy anchor of the old heading is kept in README.md and README.ru.md (tools/build_legacy_map.py)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"КОНТАКТНАЯ ИНФОРМАЦИЯ\"",
+   "reason": "Not a loss: heading or label of the old README renamed (case, wording or language split). The legacy anchor of the old heading is kept in README.md and README.ru.md (tools/build_legacy_map.py)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"НАВИГАЦИОННЫЙ ИНДЕКС\"",
+   "reason": "Not a loss: heading or label of the old README renamed (case, wording or language split). The legacy anchor of the old heading is kept in README.md and README.ru.md (tools/build_legacy_map.py)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ\"",
+   "reason": "Not a loss: heading or label of the old README renamed (case, wording or language split). The legacy anchor of the old heading is kept in README.md and README.ru.md (tools/build_legacy_map.py)."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ЭКОСИСТЕМА ASRP\"",
+   "reason": "Not a loss: heading or label of the old README renamed (case, wording or language split). The legacy anchor of the old heading is kept in README.md and README.ru.md (tools/build_legacy_map.py)."
+  },
+  {
+   "check": "H2_urls_missing",
+   "match": "Projects/asrp.mem",
+   "reason": "Catalog-tooling marker of the old README (a passport line that points to another repository's mount path). It is not content of this hub and is not carried onto the new pages; it stays byte for byte in archive/README_2026-11-19_pre-showcase.md and the same keys remain in metadata.yaml."
+  },
+  {
+   "check": "H4_identifiers_missing",
+   "match": "sources/knowledge/media-documents",
+   "reason": "Catalog-tooling marker of the old README (a passport line that points to another repository's mount path). It is not content of this hub and is not carried onto the new pages; it stays byte for byte in archive/README_2026-11-19_pre-showcase.md and the same keys remain in metadata.yaml."
+  }
+ ]
+}
