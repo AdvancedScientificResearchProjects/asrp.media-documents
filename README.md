@@ -1,4 +1,7 @@
 # ASRP MEDIA DOCUMENTS KNOWLEDGE HUB
+
+<!-- asrp.memory:passport -->
+> **Passport / Паспорт:** `asrp.media-documents` · status `active` · classification `INTERNAL` · mounted in [asrp.memory](https://github.com/AdvancedScientificResearchProjects/asrp.memory) at `sources/knowledge/media-documents` · machine-readable: [`metadata.yaml`](./metadata.yaml)
 # ХАБ МЕДИА-ДОКУМЕНТОВ ASRP
 
 **Bilingual navigation hub for migrated ASRP media, SMM, and publication articles (EN / RU)**

@@ -53,3 +53,12 @@ contact:
   website: https://asrp.tech
   email: info@asrp.tech
 last_updated: '2026-07'
+
+# --- asrp.memory uniform passport (common keys; see asrp.memory index.md § Источники) ---
+id: asrp.media-documents
+title_ru: "Документы ASRP.media"
+organization: AdvancedScientificResearchProjects
+data_classification: INTERNAL
+description_ru: "Редакционные материалы ASRP.media (EN/RU), по темам."
+language: [en, ru]
+memory_path: sources/knowledge/media-documents
