@@ -10,8 +10,8 @@
 
 ## Where the documents came from
 
-- The hub was built from three platform export files, named in `metadata.yaml` (`source_exports`): `documents_202606241032.json`, `documents_content_202606241032.json`, `document_draft_contents_202606241032.json`. They are **not stored here**: `.gitignore` lists `document*_*.json` and `documents*_*.json`. The migration therefore cannot be re-run from this repository.
-- The first commit (2026-06-24) is "Build Markdown knowledge hub from exports". On 2026-07-17 a pre-publication template and bilingual `index.md` pages were added in four batches (29 `index.md` files in total). 12 commits in all, one branch (`main`).
+- The hub was built from three platform export files, named in `metadata.yaml` (`source_exports`): `documents_202606241032.json`, `documents_content_202606241032.json`, `document_draft_contents_202606241032.json`. They are **not stored here**: `.gitignore` lists `document*_*.json` and `documents*_*.json`. The three source export files are not in this repository.
+- The first commit (2026-06-24) is "Build Markdown knowledge hub from exports". On 2026-07-17 a pre-publication template and bilingual `index.md` pages were added in four batches (29 `index.md` files in total). 12 commits in all, default branch `main`.
 - The platform behind the articles is named in the old README as **ASRP.media (publication platform)**; the link to it is only the `source_id` in each `metadata.yaml`.
 
 ## What was migrated and what was not

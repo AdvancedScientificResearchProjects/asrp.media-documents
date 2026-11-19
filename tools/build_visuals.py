@@ -167,8 +167,8 @@ def hub_flow(lang):
         cv.box(x, y, bw, ttl, lines, [status], stroke=col, h=190, valign="top")
     for i in range(3):
         cv.arrow([(xs[i] + bw, y + 95), (xs[i + 1], y + 95)], color=TEAL)
-    foot(cv, "The exports are named in metadata.yaml (source_exports); the repository does not contain them, so the migration cannot be re-run from here."
-         if en else "Экспорты названы в metadata.yaml (source_exports); в репозитории их нет, поэтому миграцию отсюда повторить нельзя.", H - 18)
+    foot(cv, "The exports are named in metadata.yaml (source_exports); the three source export files are not in this repository."
+         if en else "Экспорты названы в metadata.yaml (source_exports); трёх файлов экспорта источника в этом репозитории нет.", H - 18)
     return "\n".join(cv.o + ["</svg>\n"])
 
 
