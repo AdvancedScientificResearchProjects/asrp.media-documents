@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 330" width="1180" height="330" role="img" aria-labelledby="t d">
+<title id="t">One document folder</title>
+<desc id="d">A folder documents/&lt;slug&gt;/ with five parts: README.md summary card, content.en.md English body, content.ru.md Russian body, index.md both languages in one page, metadata.yaml source traceability, and images/&lt;name&gt;/metadata.yaml image records. Counts: 29 cards, 29 English bodies, 29 Russian bodies, 29 index pages, 36 image records.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1180' height='330' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>One document folder</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>documents/&lt;slug&gt;/ - the same five parts, 29 times</text>
+<text x='1156' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ANATOMY</text>
+<rect x='24' y='105' width='200' height='110' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='124.0' y='147.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>README.md</text>
+<text x='124.0' y='167.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>summary card</text>
+<text x='124.0' y='188.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='middle' font-weight='800'>29 files</text>
+<rect x='244' y='105' width='200' height='110' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='344.0' y='147.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>content.en.md</text>
+<text x='344.0' y='167.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>English body</text>
+<text x='344.0' y='188.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='middle' font-weight='800'>29 files</text>
+<rect x='464' y='105' width='200' height='110' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='564.0' y='147.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>content.ru.md</text>
+<text x='564.0' y='167.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Russian body</text>
+<text x='564.0' y='188.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='middle' font-weight='800'>29 files</text>
+<rect x='684' y='105' width='200' height='110' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='784.0' y='147.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>index.md</text>
+<text x='784.0' y='167.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>EN + RU on one page</text>
+<text x='784.0' y='188.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>29 files</text>
+<rect x='904' y='105' width='200' height='110' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='1004.0' y='147.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>metadata.yaml</text>
+<text x='1004.0' y='167.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>source traceability</text>
+<text x='1004.0' y='188.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='middle' font-weight='800'>29 files</text>
+<rect x='24' y='235' width='1132' height='48' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='590.0' y='267.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>images/&lt;name&gt;/metadata.yaml - 36 image records, 0 binaries</text>
+<text x='24' y='296' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>README.md is a card, not the article: full text is in content.en.md</text>
+<text x='24' y='316' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>/ content.ru.md.</text>
+</svg>

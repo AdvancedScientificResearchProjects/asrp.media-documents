@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img">
+<title>the hub</title>
+<desc>Navigation icon: the hub.</desc>
+<rect x="2" y="2" width="60" height="60" rx="12" fill="#101826" stroke="#4ecdc4" stroke-width="3"/>
+<g fill='none' stroke='#4ecdc4' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'><circle cx='32' cy='32' r='6'/><circle cx='32' cy='14' r='4'/><circle cx='49' cy='26' r='4'/><circle cx='43' cy='47' r='4'/><circle cx='21' cy='47' r='4'/><circle cx='15' cy='26' r='4'/><path d='M32 26V18M38 30l8-3M36 37l5 7M28 37l-5 7M26 30l-8-3'/></g>
+</svg>

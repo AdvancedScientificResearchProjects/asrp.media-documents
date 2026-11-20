@@ -1,64 +1,66 @@
+<p align="right"><b>English</b> · <a href="README.ru.md">Русский</a></p>
+
+<p align="center"><img src="guide/assets/banner/hero-banner.en.svg" alt="ASRP Media Documents Knowledge Hub: 29 documents, 9 topics, EN and RU bodies" width="100%"></p>
+
 # ASRP MEDIA DOCUMENTS KNOWLEDGE HUB
 
-<!-- asrp.memory:passport -->
-> **Passport / Паспорт:** `asrp.media-documents` · status `active` · classification `INTERNAL` · mounted in [asrp.memory](https://github.com/AdvancedScientificResearchProjects/asrp.memory) at `sources/knowledge/media-documents` · machine-readable: [`metadata.yaml`](./metadata.yaml)
-# ХАБ МЕДИА-ДОКУМЕНТОВ ASRP
+**Bilingual navigation hub for migrated ASRP media, SMM, and publication articles (EN / RU).**
+This repository is a media/knowledge catalog. It is **not** an experimental study and holds no protocols, datasets or results.
 
-**Bilingual navigation hub for migrated ASRP media, SMM, and publication articles (EN / RU)**
-**Двуязычный навигационный хаб мигрированных медиа-, SMM- и публикационных статей ASRP (EN / RU)**
-
----
-
-<div align="center">
+<p align="center">
+<img alt="Documents" src="https://img.shields.io/badge/documents-29-blue"> <img alt="Topics" src="https://img.shields.io/badge/topics-9-informational"> <img alt="Languages" src="https://img.shields.io/badge/languages-EN%20%2B%20RU-brightgreen"> <img alt="Visibility" src="https://img.shields.io/badge/repository-public-lightgrey"> <img alt="Type" src="https://img.shields.io/badge/type-catalog%2C%20not%20a%20study-orange">
+</p>
 
 | Repository / Репозиторий | Status / Статус |
-|-------------------------|----------------|
+|---|---|
 | `asrp.media-documents` | ACTIVE / АКТИВЕН |
 
-**Organization / Организация:** Advanced Scientific Research Projects (ASRP)
+**Organization / Организация:** Advanced Scientific Research Projects (ASRP) · **Part of Advanced Scientific Research Projects (ASRP) Ecosystem / Часть Экосистемы Advanced Scientific Research Projects (ASRP)**
 
 [![ASRP](https://img.shields.io/badge/ASRP-Research-blue)](https://github.com/AdvancedScientificResearchProjects)
 [![Language](https://img.shields.io/badge/Language-EN%2F%2FRU-brightgreen)]()
 [![Status](https://img.shields.io/badge/Status-Active-success)]()
 [![Mode](https://img.shields.io/badge/Mode-Hub-informational)]()
 
-**Part of Advanced Scientific Research Projects (ASRP) Ecosystem / Часть Экосистемы Advanced Scientific Research Projects (ASRP)**
-
-</div>
-
----
-
-<div align="center">
-
 [![💛 Support our work / Поддержать](https://img.shields.io/badge/💛%20Support%20our%20work-asrp.tech%2Fpatrons-FBBF24?style=for-the-badge)](https://asrp.tech/en/patrons)
 
 > **EN:** **If this work is valuable to you — support us.** 7 patron tiers from Principal Philanthropist to Individual Contributor.
-> **RU:** **Если эта работа вам полезна — поддержите нас.** 7 уровней меценатства — от Главного Филантропа до Индивидуального Вкладчика.
->
-> **Support / Поддержать:** <https://asrp.tech/en/patrons>
-> **Investment inquiries / Инвестиционные запросы:** _pending — provide URL when available / в ожидании — добавляется при предоставлении_
+> **Support:** <https://asrp.tech/en/patrons>
+> **Investment inquiries:** _pending — provide URL when available_
 
-</div>
+<!-- legacy-anchors --><a name="asrp-media-documents-knowledge-hub"></a><a name="хаб-медиа-документов-asrp"></a>
+## At a glance
 
----
+| | |
+|---|---|
+| **What it is** | a hub of **29 migrated documents**: 18 interviews, 9 articles, 2 research pieces |
+| **Topics** | 9 topics; the biggest is Lucid Dreaming (10 documents) |
+| **Languages** | an English and a Russian body for every document; both together on one `index.md` page |
+| **Source status** | 4 documents `published`, 25 `todo` in the platform export (status as copied, not interpreted) |
+| **Images** | 36 image metadata records, no image files |
+| **Not in this repository** | results, datasets, protocols, patent documents, the source export files |
+| **Visibility** | public |
 
-## QUICK NAVIGATION / БЫСТРАЯ НАВИГАЦИЯ
+![Documents per topic](guide/assets/diagrams/topics-map.en.svg)
 
-| Section / Раздел | Description / Описание | Status / Статус |
-|------------------|------------------------|-----------------|
-| [Overview / Обзор](#overview--обзор) | What this hub is and how it is organized / Что это за хаб и как он устроен | Available / Доступно |
-| [Documents by Topic / Документы по темам](#documents-by-topic--документы-по-темам) | 29 articles across 9 topics / 29 статей по 9 темам | Available / Доступно |
-| [Documents Catalog / Каталог документов](#documents-catalog--каталог-документов) | Full per-document catalog (EN / RU) / Полный каталог по документам (EN / RU) | Available / Доступно |
-| [Structure / Структура](#structure--структура) | Repository folder tree / Дерево папок репозитория | Available / Доступно |
-| [Security / Безопасность](#security--безопасность) | Data classification / Классификация данных | Standard / Стандартно |
-| [ASRP Ecosystem / Экосистема ASRP](#asrp-ecosystem--экосистема-asrp) | Related repos + patents / Связанные репозитории и патенты | Available / Доступно |
-| [Contact / Контакты](#contact-information--контактная-информация) | Org contact block / Корпоративные контакты | Available / Доступно |
+<!-- legacy-anchors --><a name="quick-navigation--быстрая-навигация"></a>
+## Quick navigation
 
----
+| | Section | What you get | Page |
+|---|---|---|---|
+| <img src="guide/assets/icons/hub.svg" width="28" alt=""> | What this hub is | origin, migration rules, what was left out | [guide/HUB.md](guide/HUB.md) |
+| <img src="guide/assets/icons/topics.svg" width="28" alt=""> | Documents by topic | 9 topics, source types and statuses | [guide/TOPICS.md](guide/TOPICS.md) |
+| <img src="guide/assets/icons/navigation.svg" width="28" alt=""> | Structure and how to read it | folder tree, one document folder, metadata keys | [guide/NAVIGATION.md](guide/NAVIGATION.md) |
+| <img src="guide/assets/icons/evidence.svg" width="28" alt=""> | Claims and evidence | what the repository shows vs what articles say | [guide/CLAIMS.md](guide/CLAIMS.md) |
+| <img src="guide/assets/icons/ecosystem.svg" width="28" alt=""> | Ecosystem and patent applications | related repositories, application numbers, contacts | [guide/ECOSYSTEM.md](guide/ECOSYSTEM.md) |
+| <img src="guide/assets/icons/open.svg" width="28" alt=""> | Open questions | inconsistencies found in the repository | [guide/OPEN-QUESTIONS.md](guide/OPEN-QUESTIONS.md) |
+| <img src="guide/assets/icons/figures.svg" width="28" alt=""> | Figures | every picture and diagram | [guide/FIGURES.md](guide/FIGURES.md) |
+| <img src="guide/assets/icons/archive.svg" width="28" alt=""> | Previous README | kept byte for byte | [archive/README_2026-11-19_pre-showcase.md](archive/README_2026-11-19_pre-showcase.md) |
 
-## OVERVIEW / ОБЗОР
+Guide index: [guide/README.md](guide/README.md).
 
-### ENGLISH
+<!-- legacy-anchors --><a name="overview--обзор"></a><a name="english"></a><a name="русский"></a>
+## What this hub is
 
 This repository is a **bilingual (EN / RU) navigation hub** for **29 migrated ASRP media, SMM, and publication articles**. It is a media/knowledge catalog, **not** an experimental study — there are no protocols or experimental-design sections here.
 
@@ -66,175 +68,155 @@ Each migrated article lives in its own `documents/<slug>/` folder with a summary
 
 Navigation is topic-first: the **Topics index** and the **Documents catalog** are the central entry points. The hub groups the 29 documents across 9 practical themes — from lucid dreaming and sleep physiology to BlockJam 2025, Web3/markets, and UAP/cosmology.
 
-### РУССКИЙ
+Full page: [guide/HUB.md](guide/HUB.md)
 
-Этот репозиторий — **двуязычный (EN / RU) навигационный хаб** для **29 мигрированных медиа-, SMM- и публикационных статей ASRP**. Это медиа-/знаниевый каталог, **а не** экспериментальное исследование — здесь нет протоколов или разделов с планом экспериментов.
+<!-- legacy-anchors --><a name="documents-by-topic--документы-по-темам"></a>
+## Documents by topic
 
-Каждая мигрированная статья находится в собственной папке `documents/<slug>/` с карточкой-сводкой `README.md`, полными текстами `content.en.md` и/или `content.ru.md`, файлом трассировки `metadata.yaml` и папками с метаданными изображений. Тексты статей сохранены только для англо- и русскоязычного исходного контента; прочие языки из исходных экспортов намеренно не мигрировались. Бинарные файлы изображений отсутствовали в экспорте, поэтому папки изображений содержат только метаданные (исходные пути и контекст использования).
-
-Навигация построена от тем: **Индекс тем** и **Каталог документов** — центральные точки входа. Хаб распределяет 29 документов по 9 практическим темам — от осознанных сновидений и физиологии сна до BlockJam 2025, Web3/рынков и UAP/космологии.
-
----
-
-## DOCUMENTS BY TOPIC / ДОКУМЕНТЫ ПО ТЕМАМ
-
-| Topic / Тема | Docs / Документов | Lead file / Главный файл |
+| Topic | Docs | Lead file |
 |---|---:|---|
-| Lucid Dreaming / Осознанные сновидения | 10 | [`topics/lucid-dreaming.md`](topics/lucid-dreaming.md) |
-| Technology and AI / Технологии и ИИ | 5 | [`topics/technology-and-ai.md`](topics/technology-and-ai.md) |
-| History and Philosophy / История и философия | 4 | [`topics/history-and-philosophy.md`](topics/history-and-philosophy.md) |
-| Health and Sleep / Здоровье и сон | 3 | [`topics/health-and-sleep.md`](topics/health-and-sleep.md) |
-| BlockJam 2025 / BlockJam 2025 | 2 | [`topics/blockjam-2025.md`](topics/blockjam-2025.md) |
-| UAP and Cosmology / UAP и космология | 2 | [`topics/uap-and-cosmology.md`](topics/uap-and-cosmology.md) |
-| Art and Culture / Искусство и культура | 1 | [`topics/art-and-culture.md`](topics/art-and-culture.md) |
-| Markets and Web3 / Рынки и Web3 | 1 | [`topics/markets-and-web3.md`](topics/markets-and-web3.md) |
-| Research Methods / Методы исследований | 1 | [`topics/research-methods.md`](topics/research-methods.md) |
-| **Total / Всего** | **29** | [`topics/README.md`](topics/README.md) |
+| Lucid Dreaming | 10 | [`topics/lucid-dreaming.md`](topics/lucid-dreaming.md) |
+| Technology and AI | 5 | [`topics/technology-and-ai.md`](topics/technology-and-ai.md) |
+| History and Philosophy | 4 | [`topics/history-and-philosophy.md`](topics/history-and-philosophy.md) |
+| Health and Sleep | 3 | [`topics/health-and-sleep.md`](topics/health-and-sleep.md) |
+| BlockJam 2025 | 2 | [`topics/blockjam-2025.md`](topics/blockjam-2025.md) |
+| UAP and Cosmology | 2 | [`topics/uap-and-cosmology.md`](topics/uap-and-cosmology.md) |
+| Art and Culture | 1 | [`topics/art-and-culture.md`](topics/art-and-culture.md) |
+| Markets and Web3 | 1 | [`topics/markets-and-web3.md`](topics/markets-and-web3.md) |
+| Research Methods | 1 | [`topics/research-methods.md`](topics/research-methods.md) |
+| **Total** | **29** | [`topics/README.md`](topics/README.md) |
 
-**EN:** Open any topic page for the list of articles in that theme, or use the full catalog below for the complete per-document index with source IDs, types, and status.
+Open any topic page for the list of articles in that theme, or use the full catalog below for the complete per-document index with source IDs, types, and status.
 
-**RU:** Откройте страницу темы, чтобы увидеть список статей в ней, либо воспользуйтесь полным каталогом ниже для индекса по всем документам с исходными ID, типами и статусом.
+Full page: [guide/TOPICS.md](guide/TOPICS.md)
 
----
+<!-- legacy-anchors --><a name="documents-catalog--каталог-документов"></a>
+## Documents catalog
 
-## DOCUMENTS CATALOG / КАТАЛОГ ДОКУМЕНТОВ
+The complete catalog of all **29** migrated documents — each with a summary card and full EN / RU bodies — lives in [`documents/README.md`](documents/README.md). The catalog lists title, source type (`interview` / `article` / `research`), source status (`published` / `todo`), topic, available languages, and source ID.
 
-**EN:** The complete catalog of all **29** migrated documents — each with a summary card and full EN / RU bodies — lives in [`documents/README.md`](documents/README.md). The catalog lists title, source type (`interview` / `article` / `research`), source status (`published` / `todo`), topic, available languages, and source ID.
+- **Interviews:** 18 · **Articles:** 9 · **Research:** 2
+- **Source status `published`:** 4 · **Source status `todo`:** 25
+- **Available translations:** English (EN) and Russian (RU) for every document
 
-- **Interviews / Интервью:** 18 · **Articles / Статьи:** 9 · **Research / Исследования:** 2
-- **Source status `published` / Опубликовано в источнике:** 4 · **Source status `todo` / В работе в источнике:** 25
-- **Available translations / Доступные переводы:** English (EN) and Russian (RU) for every document / Английский (EN) и русский (RU) для каждого документа
+Full page: [guide/TOPICS.md](guide/TOPICS.md)
 
-**RU:** Полный каталог всех **29** мигрированных документов — с карточкой-сводкой и полными текстами EN / RU — находится в [`documents/README.md`](documents/README.md). В каталоге указаны название, тип источника (`interview` / `article` / `research`), статус источника (`published` / `todo`), тема, доступные языки и исходный ID.
-
----
-
-## STRUCTURE / СТРУКТУРА
+<!-- legacy-anchors --><a name="structure--структура"></a>
+## Structure
 
 ```
 asrp.media-documents/
-├── README.md                     # This hub README / Этот хаб-README
-├── metadata.yaml                 # Machine-readable hub metadata / Машинно-читаемые метаданные хаба
+├── README.md, README.ru.md       # front pages (EN, RU)
+├── metadata.yaml                 # machine-readable hub metadata
 ├── documents/
-│   ├── README.md                 # Full documents catalog / Полный каталог документов
-│   └── <slug>/                   # One folder per article / Папка на статью
-│       ├── README.md             # Summary card / Карточка-сводка
-│       ├── content.en.md         # English body (where migrated) / Английский текст
-│       ├── content.ru.md         # Russian body (where migrated) / Русский текст
-│       ├── metadata.yaml         # Source traceability / Трассировка источника
-│       └── images/<slug>/
-│           └── metadata.yaml     # Image metadata only (no binaries) / Только метаданные
-└── topics/
-    ├── README.md                 # Topics index / Индекс тем
-    └── <topic>.md                # One page per topic / Страница на тему
+│   ├── README.md                 # full documents catalog
+│   └── <slug>/                   # one folder per article (29)
+│       ├── README.md             # summary card
+│       ├── content.en.md         # English body
+│       ├── content.ru.md         # Russian body
+│       ├── index.md              # both languages on one page
+│       ├── metadata.yaml         # source traceability
+│       └── images/<slug>/metadata.yaml   # image metadata only (no binaries)
+├── topics/                       # README.md = topics index, <topic>.md = one page per topic (9)
+├── guide/                        # showcase pages (EN + RU) and generated SVG
+├── archive/                      # the previous README, byte for byte
+├── tools/, tests/                # showcase tooling and the no-loss gate
 ```
 
-**EN:** Each `documents/<slug>/` folder is self-contained. `README.md` files are summary cards, not full article bodies — full bodies live in `content.en.md` / `content.ru.md`. `metadata.yaml` files preserve source traceability (export filenames, source IDs, language rows). Source exports referenced by traceability: `documents_202606241032.json`, `documents_content_202606241032.json`, `document_draft_contents_202606241032.json`.
+Each `documents/<slug>/` folder is self-contained. `README.md` files are summary cards, not full article bodies — full bodies live in `content.en.md` / `content.ru.md`. `metadata.yaml` files preserve source traceability (export filenames, source IDs, language rows). Source exports referenced by traceability: `documents_202606241032.json`, `documents_content_202606241032.json`, `document_draft_contents_202606241032.json`.
 
-**RU:** Каждая папка `documents/<slug>/` самодостаточна. Файлы `README.md` — это карточки-сводки, а не полные тексты статей; полные тексты находятся в `content.en.md` / `content.ru.md`. Файлы `metadata.yaml` сохраняют трассировку источника (имена файлов экспорта, исходные ID, языковые строки). Экспорты-источники, на которые ссылается трассировка: `documents_202606241032.json`, `documents_content_202606241032.json`, `document_draft_contents_202606241032.json`.
+![One document folder](guide/assets/diagrams/doc-anatomy.en.svg)
 
----
+Full page: [guide/NAVIGATION.md](guide/NAVIGATION.md)
 
-## SECURITY / БЕЗОПАСНОСТЬ
+## Claims and evidence
 
-### Data Classification / Классификация данных
+The articles are published media texts. What the repository itself shows is its structure and traceability; what the articles say (a patent application, a trademark certificate, health benefits of a method, "classified archives") is attributed to their authors and is not backed by a document in this repository. An application is not a granted patent.
 
-| Level / Уровень | Access / Доступ | Marking / Маркировка | Description / Описание |
-|----------------|-----------------|---------------------|----------------------|
-| **PUBLIC / ПУБЛИЧНЫЙ** | Open / Открытый | GREEN / ЗЕЛЁНЫЙ | General information / Общая информация |
-| **RESEARCH / ИССЛЕДОВАТЕЛЬСКИЙ** | Team Only / Только команда | YELLOW / ЖЁЛТЫЙ | Research data / Исследовательские данные |
-| **RESTRICTED / ОГРАНИЧЕННЫЙ** | Core Team / Основная команда | RED / КРАСНЫЙ | Sensitive analysis / Конфиденциальный анализ |
-| **INTERNAL / ВНУТРЕННИЙ** | Director Only / Только директор | BLACK / ЧЁРНЫЙ | Director-level review only / Только обзор уровня директора |
+![Three layers: shown, said, not here](guide/assets/diagrams/evidence-layers.en.svg)
+
+Full page: [guide/CLAIMS.md](guide/CLAIMS.md)
+
+<!-- legacy-anchors --><a name="security--безопасность"></a><a name="data-classification--классификация-данных"></a>
+## Security
+
+### Data Classification
+
+| Level | Access | Marking | Description |
+|---|---|---|---|
+| **PUBLIC** | Open | GREEN | General information |
+| **RESEARCH** | Team Only | YELLOW | Research data |
+| **RESTRICTED** | Core Team | RED | Sensitive analysis |
+| **INTERNAL** | Director Only | BLACK | Director-level review only |
 
 > **EN:** Migrated article bodies (`content.en.md` / `content.ru.md`) are **PUBLIC** — they are editorial/educational media content cleared for public reading. Source `metadata.yaml` records export traceability only; it contains no personal data beyond source IDs and publication timestamps.
-> **RU:** Тексты статей (`content.en.md` / `content.ru.md`) имеют уровень **ПУБЛИЧНЫЙ** — это редакционный/образовательный медиаконтент, разрешённый для публичного чтения. Файлы `metadata.yaml` содержат только трассировку экспорта; в них нет персональных данных помимо исходных ID и временных меток публикации.
 
----
+The repository metadata carries `data_classification: INTERNAL`, while the repository itself is public: see [guide/OPEN-QUESTIONS.md](guide/OPEN-QUESTIONS.md).
 
-## ASRP ECOSYSTEM / ЭКОСИСТЕМА ASRP
+<!-- legacy-anchors --><a name="asrp-ecosystem--экосистема-asrp"></a><a name="related-research-repositories--связанные-исследовательские-репозитории"></a><a name="patent-portfolio--патентный-портфель"></a>
+## ASRP ecosystem
 
-<div align="center">
+### Related Research Repositories
 
-### Related Research Repositories / Связанные исследовательские репозитории
+| Repository | Direction | Link |
+|---|---|---|
+| **ASRP.media (publication platform)** | Media & SMM articles source | _referenced via migrated `source_id` traceability in each `metadata.yaml`_ |
+| **Hyperbolic Field Agricultural Study** | Plant & seed growth | [View](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_Agricultural_Study) |
+| **UAP Reverse Engineering Study** | Multi-track UAP research hub | [View](https://github.com/AdvancedScientificResearchProjects/UAP_Reverse_Engineering_Study) |
+| **ASRP.art** | Art & consciousness | [View](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art) |
 
-</div>
+### Patent Portfolio — patent applications as listed by the old README
 
-| Repository / Репозиторий | Direction / Направление | Link / Ссылка |
-|-------------------------|------------------------|---------------|
-| **ASRP.media (publication platform) / Платформа публикаций** | Media & SMM articles source / Источник медиа- и SMM-статей | _referenced via migrated `source_id` traceability in each `metadata.yaml` / ссылается через исходные `source_id` в каждом `metadata.yaml` |
-| **Hyperbolic Field Agricultural Study / Сельскохозяйственное исследование** | Plant & seed growth / Рост растений и семян | [View / Просмотр](https://github.com/AdvancedScientificResearchProjects/Hyperbolic_Field_Agricultural_Study) |
-| **UAP Reverse Engineering Study / Исследование по реверс-инжинирингу НАЯ** | Multi-track UAP research hub / Многотрековый хаб исследований НАЯ | [View / Просмотр](https://github.com/AdvancedScientificResearchProjects/UAP_Reverse_Engineering_Study) |
-| **ASRP.art** | Art & consciousness / Искусство и сознание | [View / Просмотр](https://github.com/AdvancedScientificResearchProjects/Axionetic_Sensing_Reactions_Platform_in_Art) |
+> **EN:** This hub is a media/knowledge catalog and is **not itself** the IP basis for any filing. The old README says: "Several migrated articles cover ASRP research programs that **are** patent-grounded; their canonical patents are listed below. No patent filing directly grounds this catalog." The numbers below are application numbers; **an application is not a granted patent**, and this repository holds no patent document, no filing status and does not name the applicants.
 
-<div align="center">
+| Programme | Application | Link |
+|---|---|---|
+| **ASRP.art** | KZ 2025/0592.1 + PCT | [View](https://github.com/denisbanchenko/Kazpatent_Axionetic_Sensing_Reactions_Platform_in_Art_Patent) |
+| **ASRP.drift** | KZ 413554 | [View](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent) |
+| **Fractal Biomedical System** | KZ 2025/1095.1 | [View](https://github.com/denisbanchenko/Kazpatent_Fractal_Biomedical_System_Patent) |
+| **Global Forecasting System (GFS)** | KZ 2025/1096.1 | [View](https://github.com/denisbanchenko/Kazpatent_Global_Forecasting_System_Patent) |
 
-### Patent Portfolio / Патентный портфель
+Full page: [guide/ECOSYSTEM.md](guide/ECOSYSTEM.md)
 
-</div>
+> **Support:** if this work is valuable to you — https://asrp.tech/en/patrons
 
-> **EN:** This hub is a media/knowledge catalog and is **not itself** the IP basis for any filing. Several migrated articles cover ASRP research programs that **are** patent-grounded; their canonical patents are listed below. No patent filing directly grounds this catalog.
-> **RU:** Этот хаб — медиа-/знаниевый каталог и **сам по себе** не является основанием какой-либо заявки. Ряд мигрированных статей освещает исследовательские программы ASRP, имеющие патентную основу; их канонические патенты приведены ниже. Патентная заявка не лежит в основе данного каталога.
+<!-- legacy-anchors --><a name="contact-information--контактная-информация"></a><a name="corporate-contact--корпоративные-контакты"></a>
+## Contact
 
-| Patent / Патент | Application / Заявка | Link / Ссылка |
-|----------------|---------------------|---------------|
-| **ASRP.art / ПНИР.искусство** | KZ 2025/0592.1 + PCT | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Axionetic_Sensing_Reactions_Platform_in_Art_Patent) |
-| **ASRP.drift / ПНИР.дрифт** | KZ 413554 | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Advanced_Synchro_Resonance_Platform_For_Deep_Resonant_Patent) |
-| **Fractal Biomedical System / Фрактальная биомедицинская система** | KZ 2025/1095.1 | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Fractal_Biomedical_System_Patent) |
-| **Global Forecasting System (GFS) / Глобальная система прогнозирования** | KZ 2025/1096.1 | [View / Просмотр](https://github.com/denisbanchenko/Kazpatent_Global_Forecasting_System_Patent) |
+### Corporate Contact
 
----
-
-> **Support / Поддержать:** if this work is valuable to you — https://asrp.tech/en/patrons
-
----
-
-## CONTACT INFORMATION / КОНТАКТНАЯ ИНФОРМАЦИЯ
-
-<div align="center">
-
-### Corporate Contact / Корпоративные контакты
-
-</div>
-
-| Field / Поле | Value / Значение |
-|--------------|------------------|
-| **Organization / Организация** | ТОО "Перспективные Научно-Исследовательские Разработки" / Advanced Scientific Research Projects LLP |
-| **Country / Страна** | Republic of Kazakhstan / Республика Казахстан |
-| **Website / Веб-сайт** | [asrp.tech](https://asrp.tech) |
+| Field | Value |
+|---|---|
+| **Organization** | ТОО "Перспективные Научно-Исследовательские Разработки" / Advanced Scientific Research Projects LLP |
+| **Country** | Republic of Kazakhstan |
+| **Website** | [asrp.tech](https://asrp.tech) |
 | **Email** | info@asrp.tech |
 
-| Purpose / Цель | Contact / Контакт |
-|---------------|------------------|
-| **General Inquiries / Общие вопросы** | info@asrp.tech |
-| **Research Collaboration / Научное сотрудничество** | info@asrp.tech |
-| **Security Issues / Безопасность** | info@asrp.tech |
+| Purpose | Contact |
+|---|---|
+| **General Inquiries** | info@asrp.tech |
+| **Research Collaboration** | info@asrp.tech |
+| **Security Issues** | info@asrp.tech |
 
-> **EN:** Contact uses the organization's registered address and `info@asrp.tech` only. No member's personal/home address or personal contact details are published here.
-> **RU:** Для связи используются только зарегистрированный адрес организации и `info@asrp.tech`. Личные/домашние адреса или личные контакты участников здесь не публикуются.
+> **EN:** Contact uses the organization e-mail `info@asrp.tech` only. No member's personal/home address or personal contact details are published here. The organization named here is a contact; this page does not say who holds any patent or application.
 
----
+## Open questions
 
-## DISCLAIMER / ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ
+Seven open questions are listed in [guide/OPEN-QUESTIONS.md](guide/OPEN-QUESTIONS.md) (classification vs visibility, meaning of `todo`, missing exports and more).
 
-### ENGLISH
+<!-- legacy-anchors --><a name="disclaimer--отказ-от-ответственности"></a><a name="english-1"></a><a name="русский-1"></a>
+## Disclaimer
 
 This repository is a media/knowledge catalog of migrated editorial articles. Article content reflects its original authors and publication context; it is presented for documentation and navigation, not as verified scientific claims.
 
-### РУССКИЙ
-
-Этот репозиторий — медиа-/знаниевый каталог мигрированных редакционных статей. Содержание статей отражает позиции их авторов и контекст публикации; оно представлено для документирования и навигации, а не как проверенные научные утверждения.
-
 ---
 
-**Last Updated / Последнее обновление:** July 2026
-**Status / Статус:** The hub actively catalogs 29 migrated bilingual articles across 9 topics / Хаб активно каталогизирует 29 мигрированных двуязычных статей по 9 темам.
-
----
+**Last Updated:** July 2026
+**Status:** The hub actively catalogs 29 migrated bilingual articles across 9 topics.
 
 **ASRP RESEARCH STANDARD v2.1**
 
----
+<!-- legacy-anchors --><a name="navigation-index--навигационный-индекс"></a>
+## Navigation index
 
-## NAVIGATION INDEX / НАВИГАЦИОННЫЙ ИНДЕКС
-
-[Overview / Обзор](#overview--обзор) · [Documents by Topic / Документы по темам](#documents-by-topic--документы-по-темам) · [Documents Catalog / Каталог](#documents-catalog--каталог-документов) · [Structure / Структура](#structure--структура) · [Security / Безопасность](#security--безопасность) · [ASRP Ecosystem / Экосистема](#asrp-ecosystem--экосистема-asrp) · [Contact / Контакты](#contact-information--контактная-информация) · [Disclaimer / Отказ](#disclaimer--отказ-от-ответственности)
+[At a glance](#at-a-glance) · [Quick navigation](#quick-navigation) · [What this hub is](#what-this-hub-is) · [Documents by topic](#documents-by-topic) · [Documents catalog](#documents-catalog) · [Structure](#structure) · [Claims and evidence](#claims-and-evidence) · [Security](#security) · [ASRP ecosystem](#asrp-ecosystem) · [Contact](#contact) · [Disclaimer](#disclaimer) · [Русская версия](README.ru.md)

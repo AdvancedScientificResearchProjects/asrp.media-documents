@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img">
+<title>documents</title>
+<desc>Navigation icon: documents.</desc>
+<rect x="2" y="2" width="60" height="60" rx="12" fill="#101826" stroke="#a78bfa" stroke-width="3"/>
+<g fill='none' stroke='#a78bfa' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'><rect x='16' y='12' width='32' height='40' rx='4'/><path d='M23 22h18M23 30h18M23 38h10'/></g>
+</svg>
