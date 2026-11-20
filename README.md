@@ -198,7 +198,7 @@ Full page: [guide/ECOSYSTEM.md](guide/ECOSYSTEM.md)
 | **Research Collaboration** | info@asrp.tech |
 | **Security Issues** | info@asrp.tech |
 
-> **EN:** Contact uses the organization's registered address and `info@asrp.tech` only. No member's personal/home address or personal contact details are published here. The organization named here is a contact; this page does not say who holds any patent or application.
+> **EN:** Contact uses the organization e-mail `info@asrp.tech` only. No member's personal/home address or personal contact details are published here. The organization named here is a contact; this page does not say who holds any patent or application.
 
 ## Open questions
 
